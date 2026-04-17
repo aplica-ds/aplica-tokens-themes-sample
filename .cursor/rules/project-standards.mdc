@@ -1,0 +1,28 @@
+---
+description: Language, comments, and conventions aligned with aplica-tokens-theme-engine context
+alwaysApply: true
+---
+
+# Project standards (AI / contributors)
+
+## Language
+
+- **Code**: identifiers, function names, and file names in English.
+- **Comments**: all comments and JSDoc in **English** (inline, block, and file headers) so tooling and models parse intent reliably.
+- **User communication**: when the user writes in **Portuguese (PT-BR)**, reply in **Portuguese (PT-BR)**; otherwise match the user’s language.
+
+## Scripts and modules
+
+- Prefer **ES modules** (`.mjs`) for Node utilities in this repo.
+- Prefer `const` over `let`; avoid `var`.
+- Use descriptive names; avoid single-letter identifiers except in trivial loop indices.
+
+## Changelog-style discipline (when editing release notes)
+
+- Keep **changelog narrative compact**; avoid pasting huge file lists into narrative changelog text.
+- When listing **which files** changed per release, use a dedicated list or release-notes file pattern if the project adds one later.
+
+## Data hygiene (`data/$themes.json`)
+
+- Figma binding payloads (`$figmaStyleReferences`, `figmaVariableReferences`, `$figmaVariableReferences`) should stay **empty objects** for sample/template repos unless you intentionally re-link to a Figma file.
+- Use `npm run themes:clean-figma` (or `node utils/clean-themes-figma-references.mjs`) after exports that reintroduce those IDs.
