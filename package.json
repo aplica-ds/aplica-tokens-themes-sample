@@ -1,6 +1,6 @@
 {
   "name": "@aplica/tokens-themes-sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "Aplica Design theme sample (v1.0): JSON files ready to import into Tokens Studio as a starter template. The dist/ folder holds the reference token output for this repository.",
   "homepage": "https://aplica.me",

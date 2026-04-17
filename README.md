@@ -1,7 +1,10 @@
-# aplica-tokens-themes-sample
+# @aplica/tokens-themes-sample
+
+_Git repository name:_ [`aplica-ds/aplica-tokens-themes-sample`](https://github.com/aplica-ds/aplica-tokens-themes-sample)
 
 Sample **Aplica Design** themes: a ready-made **design token** workspace you can open in **Figma** with [**Tokens Studio**](https://docs.tokens.studio/) (PRO), plus a **reference build output** under `dist/`. The token sets and themes mirror the multi-layer architecture produced by the **Aplica Theme Engine**.
 
+- **npm package:** [@aplica/tokens-themes-sample](https://www.npmjs.com/package/@aplica/tokens-themes-sample)
 - **Product & ecosystem:** [Aplica DS — aplica.me](https://aplica.me/)
 - **Generator package:** [@aplica/aplica-theme-engine on npm](https://www.npmjs.com/package/@aplica/aplica-theme-engine)
 - **Tokens Studio docs:** [Tokens Studio for Figma](https://docs.tokens.studio/)
@@ -128,4 +131,4 @@ Issues and pull requests are welcome. Keep **comments and commit messages in Eng
 
 ---
 
-**Links:** [Aplica DS](https://aplica.me/) · [@aplica/aplica-theme-engine (npm)](https://www.npmjs.com/package/@aplica/aplica-theme-engine) · [Tokens Studio docs](https://docs.tokens.studio/)
+**Links:** [@aplica/tokens-themes-sample (npm)](https://www.npmjs.com/package/@aplica/tokens-themes-sample) · [Aplica DS](https://aplica.me/) · [@aplica/aplica-theme-engine (npm)](https://www.npmjs.com/package/@aplica/aplica-theme-engine) · [Tokens Studio docs](https://docs.tokens.studio/)
