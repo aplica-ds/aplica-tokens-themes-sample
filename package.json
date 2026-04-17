@@ -1,4 +1,15 @@
 {
+  "name": "aplica-tokens-themes-sample",
+  "version": "1.0.0",
+  "description": "Aplica Design theme sample (v1.0): JSON files ready to import into Tokens Studio as a starter template. The dist/ folder holds the reference token output for this repository.",
+  "homepage": "https://aplica.me",
+  "keywords": [
+    "aplica",
+    "aplica-design",
+    "design-tokens",
+    "tokens-studio",
+    "themes"
+  ],
   "dependencies": {
     "@aplica/aplica-theme-engine": "^3.3.2"
   }

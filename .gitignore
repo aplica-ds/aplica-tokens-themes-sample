@@ -99,11 +99,11 @@ theme_samples/
 *.bak
 *.backup
 
-# Build outputs (se houver)
+# Build outputs (if any)
 outputs/dist/
 build/
 out/
-dist/
+# Root dist/ is tracked — sample token output shipped with this repo
 
 # Design Tokens specific
 outputs/
@@ -126,6 +126,6 @@ style-dictionary-output/
 figma-exports/
 figma-tokens/
 
-# Lock files (opcional - alguns projetos preferem versionar)
+# Lock files (optional — some teams prefer to commit these)
 # package-lock.json
 # yarn.lock
