@@ -1,0 +1,11 @@
+{
+  "foundation": "/Users/fernandobellentani/workspace/bellentani/aplica-tokens-themes-sample/data/foundation/engine/default.json",
+  "semantic": "/Users/fernandobellentani/workspace/bellentani/aplica-tokens-themes-sample/data/semantic/default.json",
+  "timestamp": "2026-04-17T21:32:47.058Z",
+  "valid": true,
+  "totalReferences": 149,
+  "validReferences": 149,
+  "invalidReferences": [],
+  "missingTokens": [],
+  "errors": []
+}
