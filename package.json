@@ -11,6 +11,6 @@
     "themes"
   ],
   "dependencies": {
-    "@aplica/aplica-theme-engine": "^3.3.2"
+    "@aplica/aplica-theme-engine": "^3.5.2"
   }
 }

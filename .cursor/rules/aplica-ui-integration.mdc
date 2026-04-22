@@ -1,0 +1,53 @@
+---
+description: Apply Aplica tokens to UI components using the active AI/UI contract and validated archetypes.
+globs: *.{js,jsx,ts,tsx,css,scss,html,vue,svelte}
+---
+
+# Aplica UI Integration
+
+When working in this scope, follow the active Aplica AI/UI program instead of inventing component rules locally.
+
+## Read first
+
+- `docs/context/ai-ui/UI_TOKEN_CONSUMPTION_CONTRACT.md`
+- `docs/context/ai-ui/COMPONENT_ARCHETYPES.md`
+- `docs/context/aplica-ui-integration.md`
+- `docs/context/tokens/token-usage-for-components-and-figma.md`
+- `docs/context/ai-ui/TYPOGRAPHY_AND_ELEVATION_STYLE_USAGE.md`
+
+## Core workflow
+
+1. Inspect the real compiled outputs before writing code.
+2. Pick the closest validated archetype.
+3. Default to semantic intent.
+4. Prefer sanctioned generated typography and elevation styles.
+5. Implement from the contract and archetypes, not from guessed token names.
+
+## Required rules
+
+- Never hardcode token-owned values such as `px`, `hex`, `rgba()`, raw shadows, or ad hoc radii unless explicitly requested.
+- Never guess token names, prefixes, or output formats.
+- Use semantic as the default component layer.
+- Use foundation only when a real alias improves readability without bypassing semantic intent.
+- For typography and elevation, prefer sanctioned generated styles when they exist.
+- For Base UI or Radix overlays, validate portal-aware theming explicitly.
+
+## Current visual rules to preserve
+
+- bordered and borderless variants keep the same outer dimensions
+- buttons and peer controls in the same family align in height
+- Aplica demo buttons use pill shape
+- badges/tags use compact action styles
+- select items behave like full rows, not floating pills
+
+## Boundary
+
+This template does not authorize changes to:
+
+- generated token descriptions
+- generated `data/`
+- schemas
+- engine scripts
+- output contracts
+
+If a solution appears to require those changes, escalate to the operator instead of implementing them silently.
