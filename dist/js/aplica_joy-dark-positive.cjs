@@ -22,7 +22,7 @@ module.exports = {
             },
             "default": {
               "background": "#e7398a",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#b90064",
               "txt": "#a20052"
             },
@@ -236,7 +236,7 @@ module.exports = {
             },
             "action": {
               "background": "#dd4e67",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#ff7085",
               "txt": "#ff7085"
             },
@@ -262,7 +262,7 @@ module.exports = {
             },
             "action": {
               "background": "#4e90bd",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#6dafde",
               "txt": "#5d9fce"
             },
@@ -282,7 +282,7 @@ module.exports = {
           "link": {
             "normal": {
               "background": "#ff0f80",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#ff5998",
               "txt": "#ff5998"
             },
@@ -507,7 +507,7 @@ module.exports = {
             "secondary": {
               "normal": {
                 "background": "#ee5a5a",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#fb7c78",
                 "txt": "#ef716e"
               },
@@ -729,7 +729,7 @@ module.exports = {
             },
             "low": {
               "background": "#db5fd6",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#fe80f7",
               "txt": "#ed70e7"
             },
@@ -1026,7 +1026,7 @@ module.exports = {
     },
     "dimension": {
       "sizing": {
-        "zero": "0px",
+        "zero": "0",
         "pico": "1px",
         "nano": "2px",
         "micro": "4px",
@@ -1041,7 +1041,7 @@ module.exports = {
         "peta": "116px"
       },
       "spacing": {
-        "zero": "0px",
+        "zero": "0",
         "micro": "4px",
         "extraSmall": "8px",
         "small": "12px",
@@ -1065,7 +1065,7 @@ module.exports = {
     },
     "border": {
       "width": {
-        "none": "0px",
+        "none": "0",
         "small": "1px",
         "medium": "2px",
         "large": "4px",

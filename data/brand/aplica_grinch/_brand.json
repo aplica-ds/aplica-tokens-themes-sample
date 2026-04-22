@@ -140,7 +140,7 @@
                 },
                 "txtOn": {
                   "$type": "color",
-                  "$value": "#ffffff"
+                  "$value": "#000000"
                 },
                 "border": {
                   "$type": "color",
@@ -923,7 +923,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "action": {
                     "$type": "color",
@@ -1225,7 +1225,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "active": {
                     "$type": "color",
@@ -1299,7 +1299,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "active": {
                     "$type": "color",
@@ -1369,7 +1369,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "action": {
                     "$type": "color",
@@ -1521,7 +1521,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "active": {
                     "$type": "color",
@@ -1603,7 +1603,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   }
                 },
                 "border": {
@@ -1761,7 +1761,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "action": {
                     "$type": "color",
@@ -2071,7 +2071,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   }
                 },
                 "border": {
@@ -2145,7 +2145,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   }
                 },
                 "border": {
@@ -2207,7 +2207,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "action": {
                     "$type": "color",
@@ -2367,7 +2367,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   }
                 },
                 "border": {
@@ -2433,7 +2433,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "active": {
                     "$type": "color",
@@ -4002,7 +4002,7 @@
                 },
                 "txtOn": {
                   "$type": "color",
-                  "$value": "#ffffff"
+                  "$value": "#000000"
                 },
                 "border": {
                   "$type": "color",
@@ -4785,7 +4785,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "action": {
                     "$type": "color",
@@ -4863,7 +4863,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "active": {
                     "$type": "color",
@@ -5231,11 +5231,11 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "active": {
                     "$type": "color",
@@ -5623,7 +5623,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "action": {
                     "$type": "color",
@@ -5709,7 +5709,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   }
                 },
                 "border": {
@@ -6069,7 +6069,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   },
                   "action": {
                     "$type": "color",
@@ -6081,7 +6081,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#ffffff"
+                    "$value": "#000000"
                   }
                 },
                 "border": {

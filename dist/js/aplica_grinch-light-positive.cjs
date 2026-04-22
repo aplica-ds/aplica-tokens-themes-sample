@@ -54,7 +54,7 @@ module.exports = {
             },
             "default": {
               "background": "#ea323c",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#bc0013",
               "txt": "#a60000"
             },
@@ -230,7 +230,7 @@ module.exports = {
           "primary": {
             "normal": {
               "background": "#418b43",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#1a6821",
               "txt": "#00570d"
             },
@@ -351,7 +351,7 @@ module.exports = {
               },
               "action": {
                 "background": "#009b80",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#006a52",
                 "txt": "#00533d"
               },
@@ -379,7 +379,7 @@ module.exports = {
               },
               "action": {
                 "background": "#b07391",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#7c4461",
                 "txt": "#632d4a"
               },
@@ -399,7 +399,7 @@ module.exports = {
             "secondary": {
               "normal": {
                 "background": "#ce4685",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#a41861",
                 "txt": "#8f0050"
               },
@@ -459,7 +459,7 @@ module.exports = {
               },
               "action": {
                 "background": "#b26b00",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#813d00",
                 "txt": "#813d00"
               },
@@ -499,7 +499,7 @@ module.exports = {
               },
               "focus": {
                 "background": "#759173",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#435d41",
                 "txt": "#2b452a"
               }
@@ -1026,7 +1026,7 @@ module.exports = {
     },
     "dimension": {
       "sizing": {
-        "zero": "0px",
+        "zero": "0",
         "pico": "1px",
         "nano": "2px",
         "micro": "4px",
@@ -1041,7 +1041,7 @@ module.exports = {
         "peta": "116px"
       },
       "spacing": {
-        "zero": "0px",
+        "zero": "0",
         "micro": "4px",
         "extraSmall": "8px",
         "small": "12px",
@@ -1065,7 +1065,7 @@ module.exports = {
     },
     "border": {
       "width": {
-        "none": "0px",
+        "none": "0",
         "small": "1px",
         "medium": "2px",
         "large": "4px",

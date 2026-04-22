@@ -54,7 +54,7 @@ module.exports = {
             },
             "default": {
               "background": "#ea323c",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#bc0013",
               "txt": "#a60000"
             },
@@ -230,7 +230,7 @@ module.exports = {
           "primary": {
             "normal": {
               "background": "#418b43",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#67a467",
               "txt": "#67a467"
             },
@@ -262,7 +262,7 @@ module.exports = {
             },
             "action": {
               "background": "#c76650",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#ea866e",
               "txt": "#ea866e"
             },
@@ -399,13 +399,13 @@ module.exports = {
             "secondary": {
               "normal": {
                 "background": "#ce4685",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#e16d9e",
                 "txt": "#f07aab"
               },
               "action": {
                 "background": "#e16d9e",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#ff87b8",
                 "txt": "#f07aab"
               },
@@ -1026,7 +1026,7 @@ module.exports = {
     },
     "dimension": {
       "sizing": {
-        "zero": "0px",
+        "zero": "0",
         "pico": "1px",
         "nano": "2px",
         "micro": "4px",
@@ -1041,7 +1041,7 @@ module.exports = {
         "peta": "116px"
       },
       "spacing": {
-        "zero": "0px",
+        "zero": "0",
         "micro": "4px",
         "extraSmall": "8px",
         "small": "12px",
@@ -1065,7 +1065,7 @@ module.exports = {
     },
     "border": {
       "width": {
-        "none": "0px",
+        "none": "0",
         "small": "1px",
         "medium": "2px",
         "large": "4px",

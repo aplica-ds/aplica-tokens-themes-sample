@@ -22,7 +22,7 @@ export default {
             },
             "default": {
               "background": "#e7398a",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#b90064",
               "txt": "#a20052"
             },
@@ -282,7 +282,7 @@ export default {
           "link": {
             "normal": {
               "background": "#ff0f80",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#cd005a",
               "txt": "#9c0036"
             },
@@ -405,7 +405,7 @@ export default {
               },
               "action": {
                 "background": "#57923d",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#296301",
                 "txt": "#104d00"
               },
@@ -459,7 +459,7 @@ export default {
               },
               "action": {
                 "background": "#c38100",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#8c4d00",
                 "txt": "#713400"
               },
@@ -507,7 +507,7 @@ export default {
             "secondary": {
               "normal": {
                 "background": "#ee5a5a",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#be2a33",
                 "txt": "#a6041f"
               },
@@ -1026,7 +1026,7 @@ export default {
     },
     "dimension": {
       "sizing": {
-        "zero": "0px",
+        "zero": "0",
         "pico": "1px",
         "nano": "2px",
         "micro": "4px",
@@ -1041,7 +1041,7 @@ export default {
         "peta": "116px"
       },
       "spacing": {
-        "zero": "0px",
+        "zero": "0",
         "micro": "4px",
         "extraSmall": "8px",
         "small": "12px",
@@ -1065,7 +1065,7 @@ export default {
     },
     "border": {
       "width": {
-        "none": "0px",
+        "none": "0",
         "small": "1px",
         "medium": "2px",
         "large": "4px",

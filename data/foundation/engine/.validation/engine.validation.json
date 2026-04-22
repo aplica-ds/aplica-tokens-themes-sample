@@ -1,7 +1,7 @@
 {
-  "foundation": "/Users/fernandobellentani/workspace/bellentani/aplica-tokens-theme-engine/temp/outputs/legacy-migration/aplica-themes/converted-consumer/data/foundation/engine/default.json",
-  "semantic": "/Users/fernandobellentani/workspace/bellentani/aplica-tokens-theme-engine/temp/outputs/legacy-migration/aplica-themes/converted-consumer/data/semantic/default.json",
-  "timestamp": "2026-04-22T13:47:24.852Z",
+  "foundation": "/Users/fernandobellentani/workspace/bellentani/aplica-tokens-themes-sample/data/foundation/engine/default.json",
+  "semantic": "/Users/fernandobellentani/workspace/bellentani/aplica-tokens-themes-sample/data/semantic/default.json",
+  "timestamp": "2026-04-22T14:07:27.575Z",
   "valid": true,
   "totalReferences": 149,
   "validReferences": 149,

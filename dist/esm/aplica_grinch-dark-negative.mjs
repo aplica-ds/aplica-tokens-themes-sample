@@ -54,7 +54,7 @@ export default {
             },
             "default": {
               "background": "#ea323c",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#fa6461",
               "txt": "#fa6461"
             },
@@ -230,7 +230,7 @@ export default {
           "primary": {
             "normal": {
               "background": "#418b43",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#1a6821",
               "txt": "#67a467"
             },
@@ -274,7 +274,7 @@ export default {
             },
             "focus": {
               "background": "#c76650",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#680000",
               "txt": "#ea866e"
             }
@@ -399,7 +399,7 @@ export default {
             "secondary": {
               "normal": {
                 "background": "#ce4685",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#a41861",
                 "txt": "#f07aab"
               },
@@ -417,7 +417,7 @@ export default {
               },
               "focus": {
                 "background": "#e16d9e",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#7a0040",
                 "txt": "#f07aab"
               }
@@ -1026,7 +1026,7 @@ export default {
     },
     "dimension": {
       "sizing": {
-        "zero": "0px",
+        "zero": "0",
         "pico": "1px",
         "nano": "2px",
         "micro": "4px",
@@ -1041,7 +1041,7 @@ export default {
         "peta": "116px"
       },
       "spacing": {
-        "zero": "0px",
+        "zero": "0",
         "micro": "4px",
         "extraSmall": "8px",
         "small": "12px",
@@ -1065,7 +1065,7 @@ export default {
     },
     "border": {
       "width": {
-        "none": "0px",
+        "none": "0",
         "small": "1px",
         "medium": "2px",
         "large": "4px",

@@ -54,7 +54,7 @@ export default {
             },
             "default": {
               "background": "#ea323c",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#fa6461",
               "txt": "#fa6461"
             },
@@ -230,7 +230,7 @@ export default {
           "primary": {
             "normal": {
               "background": "#418b43",
-              "txtOn": "#ffffff",
+              "txtOn": "#000000",
               "border": "#67a467",
               "txt": "#00570d"
             },
@@ -363,7 +363,7 @@ export default {
               },
               "focus": {
                 "background": "#009b80",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#80e9cf",
                 "txt": "#00533d"
               }
@@ -391,7 +391,7 @@ export default {
               },
               "focus": {
                 "background": "#b07391",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#fdc4de",
                 "txt": "#632d4a"
               }
@@ -399,7 +399,7 @@ export default {
             "secondary": {
               "normal": {
                 "background": "#ce4685",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#e16d9e",
                 "txt": "#8f0050"
               },
@@ -471,7 +471,7 @@ export default {
               },
               "focus": {
                 "background": "#b26b00",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#ffc06e",
                 "txt": "#813d00"
               }
@@ -487,7 +487,7 @@ export default {
               },
               "action": {
                 "background": "#759173",
-                "txtOn": "#ffffff",
+                "txtOn": "#000000",
                 "border": "#000d00",
                 "txt": "#2b452a"
               },
@@ -1026,7 +1026,7 @@ export default {
     },
     "dimension": {
       "sizing": {
-        "zero": "0px",
+        "zero": "0",
         "pico": "1px",
         "nano": "2px",
         "micro": "4px",
@@ -1041,7 +1041,7 @@ export default {
         "peta": "116px"
       },
       "spacing": {
-        "zero": "0px",
+        "zero": "0",
         "micro": "4px",
         "extraSmall": "8px",
         "small": "12px",
@@ -1065,7 +1065,7 @@ export default {
     },
     "border": {
       "width": {
-        "none": "0px",
+        "none": "0",
         "small": "1px",
         "medium": "2px",
         "large": "4px",
