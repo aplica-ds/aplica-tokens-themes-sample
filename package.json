@@ -1,8 +1,19 @@
 {
-  "name": "aplica-tokens-themes-sample",
-  "version": "1.0.0",
+  "name": "@aplica/tokens-themes-sample",
+  "version": "1.0.1",
+  "license": "MIT",
   "description": "Aplica Design theme sample (v1.0): JSON files ready to import into Tokens Studio as a starter template. The dist/ folder holds the reference token output for this repository.",
   "homepage": "https://aplica.me",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplica-ds/aplica-tokens-themes-sample.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aplica-ds/aplica-tokens-themes-sample/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "aplica",
     "aplica-design",
@@ -10,7 +21,23 @@
     "tokens-studio",
     "themes"
   ],
-  "dependencies": {
-    "@aplica/aplica-theme-engine": "^3.5.2"
+  "files": [
+    "data",
+    "dist",
+    "utils",
+    "README.md",
+    "LICENSE"
+  ],
+  "exports": {
+    "./package.json": "./package.json",
+    "./data/*": "./data/*",
+    "./dist/*": "./dist/*",
+    "./utils/*": "./utils/*"
+  },
+  "devDependencies": {
+    "@aplica/aplica-theme-engine": "^3.6.0"
+  },
+  "scripts": {
+    "themes:clean-figma": "node utils/clean-themes-figma-references.mjs"
   }
 }
