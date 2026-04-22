@@ -141,6 +141,9 @@ export default {
     // txtOnStrategy: 'custom-tint',
     // txtOnCustomTint: { light: '#1a1a1a', dark: '#f5f5f5', fallback: 'brand-tint' | 'high-contrast' },
     txtOnStrategy: 'high-contrast',
+    // Optional: preferred surface level used as the starting reference for the general `txt` token.
+    // If omitted, `txt` starts from the same reference logic as `border` and is then accessibility-normalized.
+    // txtBaseColorLevel: 100,
 
     // Dark mode saturation (1.0 = same as light; 0.85 = recommended; 0.7 = softer)
     darkModeChroma: 0.85,

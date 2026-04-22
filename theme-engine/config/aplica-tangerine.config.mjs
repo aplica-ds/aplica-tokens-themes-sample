@@ -87,6 +87,9 @@ export default {
     // 'high-contrast': text is always black or white (maximum contrast)
     // 'brand-tint': text uses closest palette color that passes WCAG (maintains brand tone)
     txtOnStrategy: 'brand-tint',
+    // Optional: preferred surface level used as the starting reference for the general `txt` token.
+    // If omitted, `txt` starts from the same reference logic as `border` and is then accessibility-normalized.
+    // txtBaseColorLevel: 100,
     // UI tokens generation (set to true to generate _ui.json)
     uiTokens: false,
     

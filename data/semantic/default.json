@@ -19,6 +19,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.first.lowest.border}",
                 "$description": "Primary brand border. Use for lowest intensity brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.first.lowest.txt}",
+                "$description": "Primary brand txt. Use for lowest intensity brand surfaces and borders."
               }
             },
             "low": {
@@ -36,6 +41,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.first.low.border}",
                 "$description": "Primary brand border. Use for low brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.first.low.txt}",
+                "$description": "Primary brand txt. Use for low brand surfaces and borders."
               }
             },
             "default": {
@@ -53,6 +63,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.first.default.border}",
                 "$description": "Primary brand border. Use for default intensity brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.first.default.txt}",
+                "$description": "Primary brand txt. Use for default intensity brand surfaces and borders."
               }
             },
             "high": {
@@ -70,6 +85,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.first.high.border}",
                 "$description": "Primary brand border. Use for high brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.first.high.txt}",
+                "$description": "Primary brand txt. Use for high brand surfaces and borders."
               }
             },
             "highest": {
@@ -87,6 +107,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.first.highest.border}",
                 "$description": "Primary brand border. Use for highest intensity brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.first.highest.txt}",
+                "$description": "Primary brand txt. Use for highest intensity brand surfaces and borders."
               }
             }
           },
@@ -106,6 +131,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.second.lowest.border}",
                 "$description": "Secondary brand border. Use for lowest intensity brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.second.lowest.txt}",
+                "$description": "Secondary brand txt. Use for lowest intensity brand surfaces and borders."
               }
             },
             "low": {
@@ -123,6 +153,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.second.low.border}",
                 "$description": "Secondary brand border. Use for low brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.second.low.txt}",
+                "$description": "Secondary brand txt. Use for low brand surfaces and borders."
               }
             },
             "default": {
@@ -140,6 +175,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.second.default.border}",
                 "$description": "Secondary brand border. Use for default intensity brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.second.default.txt}",
+                "$description": "Secondary brand txt. Use for default intensity brand surfaces and borders."
               }
             },
             "high": {
@@ -157,6 +197,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.second.high.border}",
                 "$description": "Secondary brand border. Use for high brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.second.high.txt}",
+                "$description": "Secondary brand txt. Use for high brand surfaces and borders."
               }
             },
             "highest": {
@@ -174,6 +219,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.second.highest.border}",
                 "$description": "Secondary brand border. Use for highest intensity brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.second.highest.txt}",
+                "$description": "Secondary brand txt. Use for highest intensity brand surfaces and borders."
               }
             }
           },
@@ -193,6 +243,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.third.lowest.border}",
                 "$description": "Tertiary brand border. Use for lowest intensity brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.third.lowest.txt}",
+                "$description": "Tertiary brand txt. Use for lowest intensity brand surfaces and borders."
               }
             },
             "low": {
@@ -210,6 +265,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.third.low.border}",
                 "$description": "Tertiary brand border. Use for low brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.third.low.txt}",
+                "$description": "Tertiary brand txt. Use for low brand surfaces and borders."
               }
             },
             "default": {
@@ -227,6 +287,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.third.default.border}",
                 "$description": "Tertiary brand border. Use for default intensity brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.third.default.txt}",
+                "$description": "Tertiary brand txt. Use for default intensity brand surfaces and borders."
               }
             },
             "high": {
@@ -244,6 +309,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.third.high.border}",
                 "$description": "Tertiary brand border. Use for high brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.third.high.txt}",
+                "$description": "Tertiary brand txt. Use for high brand surfaces and borders."
               }
             },
             "highest": {
@@ -261,6 +331,11 @@
                 "$type": "color",
                 "$value": "{surface.color.brand.branding.third.highest.border}",
                 "$description": "Tertiary brand border. Use for highest intensity brand surfaces and borders."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.branding.third.highest.txt}",
+                "$description": "Tertiary brand txt. Use for highest intensity brand surfaces and borders."
               }
             }
           }
@@ -283,6 +358,11 @@
                   "$type": "color",
                   "$value": "{surface.color.brand.ambient.contrast.base.positive.border}",
                   "$description": "Base contrast border. Use for main canvas and surface contrast (positive/negative)."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.brand.ambient.contrast.base.positive.txt}",
+                  "$description": "Base contrast txt. Use for main canvas and surface contrast (positive/negative)."
                 }
               },
               "negative": {
@@ -300,6 +380,11 @@
                   "$type": "color",
                   "$value": "{surface.color.brand.ambient.contrast.base.negative.border}",
                   "$description": "Base contrast border. Use for main canvas and surface contrast (positive/negative)."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.brand.ambient.contrast.base.negative.txt}",
+                  "$description": "Base contrast txt. Use for main canvas and surface contrast (positive/negative)."
                 }
               }
             },
@@ -319,6 +404,11 @@
                   "$type": "color",
                   "$value": "{surface.color.brand.ambient.contrast.deep.positive.border}",
                   "$description": "Deep contrast border. Use for main canvas and surface contrast (positive/negative)."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.brand.ambient.contrast.deep.positive.txt}",
+                  "$description": "Deep contrast txt. Use for main canvas and surface contrast (positive/negative)."
                 }
               },
               "negative": {
@@ -336,6 +426,11 @@
                   "$type": "color",
                   "$value": "{surface.color.brand.ambient.contrast.deep.negative.border}",
                   "$description": "Deep contrast border. Use for main canvas and surface contrast (positive/negative)."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.brand.ambient.contrast.deep.negative.txt}",
+                  "$description": "Deep contrast txt. Use for main canvas and surface contrast (positive/negative)."
                 }
               }
             }
@@ -353,6 +448,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.neutral.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.neutral.lowest.txt}"
               }
             },
             "lower": {
@@ -367,6 +466,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.neutral.lower.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.neutral.lower.txt}"
               }
             },
             "low": {
@@ -381,6 +484,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.neutral.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.neutral.low.txt}"
               }
             },
             "mid": {
@@ -395,6 +502,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.neutral.mid.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.neutral.mid.txt}"
               }
             },
             "high": {
@@ -409,6 +520,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.neutral.mid.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.neutral.high.txt}"
               }
             },
             "higher": {
@@ -423,6 +538,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.neutral.higher.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.neutral.higher.txt}"
               }
             },
             "highest": {
@@ -437,6 +556,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.neutral.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.neutral.highest.txt}"
               }
             }
           },
@@ -453,6 +576,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.grayscale.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.grayscale.lowest.txt}"
               }
             },
             "lower": {
@@ -467,6 +594,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.grayscale.lower.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.grayscale.lower.txt}"
               }
             },
             "low": {
@@ -481,6 +612,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.grayscale.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.grayscale.low.txt}"
               }
             },
             "mid": {
@@ -495,6 +630,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.grayscale.mid.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.grayscale.mid.txt}"
               }
             },
             "high": {
@@ -509,6 +648,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.grayscale.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.grayscale.high.txt}"
               }
             },
             "higher": {
@@ -523,6 +666,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.grayscale.higher.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.grayscale.higher.txt}"
               }
             },
             "highest": {
@@ -537,6 +684,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{surface.color.brand.ambient.grayscale.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.brand.ambient.grayscale.highest.txt}"
               }
             }
           }
@@ -560,6 +711,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.primary.normal.border}",
                 "$description": "Primary function (default state). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.primary.normal.txt}",
+                "$description": "Primary function (default state). txt. Use for CTAs and interactive elements."
               }
             },
             "action": {
@@ -577,6 +733,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.primary.action.border}",
                 "$description": "Primary function (hover / pressed). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.primary.action.txt}",
+                "$description": "Primary function (hover / pressed). txt. Use for CTAs and interactive elements."
               }
             },
             "active": {
@@ -594,6 +755,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.primary.active.border}",
                 "$description": "Primary function (pressed / selected (darker than action)). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.primary.active.txt}",
+                "$description": "Primary function (pressed / selected (darker than action)). txt. Use for CTAs and interactive elements."
               }
             },
             "focus": {
@@ -611,6 +777,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.primary.focus.border}",
                 "$description": "Primary function (keyboard focus / focus indicator). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.primary.focus.txt}",
+                "$description": "Primary function (keyboard focus / focus indicator). txt. Use for CTAs and interactive elements."
               }
             }
           },
@@ -630,6 +801,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.secondary.normal.border}",
                 "$description": "Secondary function (default state). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.secondary.normal.txt}",
+                "$description": "Secondary function (default state). txt. Use for CTAs and interactive elements."
               }
             },
             "action": {
@@ -647,6 +823,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.secondary.action.border}",
                 "$description": "Secondary function (hover / pressed). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.secondary.action.txt}",
+                "$description": "Secondary function (hover / pressed). txt. Use for CTAs and interactive elements."
               }
             },
             "active": {
@@ -664,6 +845,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.secondary.active.border}",
                 "$description": "Secondary function (pressed / selected (darker than action)). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.secondary.active.txt}",
+                "$description": "Secondary function (pressed / selected (darker than action)). txt. Use for CTAs and interactive elements."
               }
             },
             "focus": {
@@ -681,6 +867,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.secondary.focus.border}",
                 "$description": "Secondary function (keyboard focus / focus indicator). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.secondary.focus.txt}",
+                "$description": "Secondary function (keyboard focus / focus indicator). txt. Use for CTAs and interactive elements."
               }
             }
           },
@@ -700,6 +891,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.link.normal.border}",
                 "$description": "Link (default state). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.link.normal.txt}",
+                "$description": "Link (default state). txt. Use for CTAs and interactive elements."
               }
             },
             "action": {
@@ -717,6 +913,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.link.action.border}",
                 "$description": "Link (hover / pressed). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.link.action.txt}",
+                "$description": "Link (hover / pressed). txt. Use for CTAs and interactive elements."
               }
             },
             "active": {
@@ -734,6 +935,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.link.active.border}",
                 "$description": "Link (pressed / selected (darker than action)). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.link.active.txt}",
+                "$description": "Link (pressed / selected (darker than action)). txt. Use for CTAs and interactive elements."
               }
             },
             "focus": {
@@ -751,6 +957,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.link.focus.border}",
                 "$description": "Link (keyboard focus / focus indicator). border. Use for CTAs and interactive elements."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.link.focus.txt}",
+                "$description": "Link (keyboard focus / focus indicator). txt. Use for CTAs and interactive elements."
               }
             }
           },
@@ -770,6 +981,11 @@
                 "$type": "color",
                 "$value": "{surface.color.interface.function.disabled.normal.border}",
                 "$description": "Disabled control. border. Use for disabled buttons and controls."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.interface.function.disabled.normal.txt}",
+                "$description": "Disabled control. txt. Use for disabled buttons and controls."
               }
             }
           }
@@ -792,6 +1008,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.info.default.normal.border}",
                   "$description": "Info feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.info.default.normal.txt}",
+                  "$description": "Info feedback txt. Use for default feedback states and messages."
                 }
               },
               "action": {
@@ -809,6 +1030,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.info.default.action.border}",
                   "$description": "Info feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.info.default.action.txt}",
+                  "$description": "Info feedback txt. Use for default feedback states and messages."
                 }
               },
               "active": {
@@ -826,6 +1052,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.info.default.active.border}",
                   "$description": "Info feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.info.default.active.txt}",
+                  "$description": "Info feedback txt. Use for default feedback states and messages."
                 }
               },
               "focus": {
@@ -843,6 +1074,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.info.default.focus.border}",
                   "$description": "Info feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.info.default.focus.txt}",
+                  "$description": "Info feedback txt. Use for default feedback states and messages."
                 }
               }
             },
@@ -862,6 +1098,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.info.secondary.normal.border}",
                   "$description": "Info feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.info.secondary.normal.txt}",
+                  "$description": "Info feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "action": {
@@ -879,6 +1120,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.info.secondary.action.border}",
                   "$description": "Info feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.info.secondary.action.txt}",
+                  "$description": "Info feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "active": {
@@ -896,6 +1142,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.info.secondary.active.border}",
                   "$description": "Info feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.info.secondary.active.txt}",
+                  "$description": "Info feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "focus": {
@@ -913,6 +1164,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.info.secondary.focus.border}",
                   "$description": "Info feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.info.secondary.focus.txt}",
+                  "$description": "Info feedback txt. Use for secondary variant feedback states and messages."
                 }
               }
             }
@@ -934,6 +1190,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.success.default.normal.border}",
                   "$description": "Success feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.success.default.normal.txt}",
+                  "$description": "Success feedback txt. Use for default feedback states and messages."
                 }
               },
               "action": {
@@ -951,6 +1212,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.success.default.action.border}",
                   "$description": "Success feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.success.default.action.txt}",
+                  "$description": "Success feedback txt. Use for default feedback states and messages."
                 }
               },
               "active": {
@@ -968,6 +1234,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.success.default.active.border}",
                   "$description": "Success feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.success.default.active.txt}",
+                  "$description": "Success feedback txt. Use for default feedback states and messages."
                 }
               },
               "focus": {
@@ -985,6 +1256,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.success.default.focus.border}",
                   "$description": "Success feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.success.default.focus.txt}",
+                  "$description": "Success feedback txt. Use for default feedback states and messages."
                 }
               }
             },
@@ -1004,6 +1280,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.success.secondary.normal.border}",
                   "$description": "Success feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.success.secondary.normal.txt}",
+                  "$description": "Success feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "action": {
@@ -1021,6 +1302,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.success.secondary.action.border}",
                   "$description": "Success feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.success.secondary.action.txt}",
+                  "$description": "Success feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "active": {
@@ -1038,6 +1324,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.success.secondary.active.border}",
                   "$description": "Success feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.success.secondary.active.txt}",
+                  "$description": "Success feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "focus": {
@@ -1055,6 +1346,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.success.secondary.focus.border}",
                   "$description": "Success feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.success.secondary.focus.txt}",
+                  "$description": "Success feedback txt. Use for secondary variant feedback states and messages."
                 }
               }
             }
@@ -1076,6 +1372,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.warning.default.normal.border}",
                   "$description": "Warning feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.warning.default.normal.txt}",
+                  "$description": "Warning feedback txt. Use for default feedback states and messages."
                 }
               },
               "action": {
@@ -1093,6 +1394,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.warning.default.action.border}",
                   "$description": "Warning feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.warning.default.action.txt}",
+                  "$description": "Warning feedback txt. Use for default feedback states and messages."
                 }
               },
               "active": {
@@ -1110,6 +1416,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.warning.default.active.border}",
                   "$description": "Warning feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.warning.default.active.txt}",
+                  "$description": "Warning feedback txt. Use for default feedback states and messages."
                 }
               },
               "focus": {
@@ -1127,6 +1438,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.warning.default.focus.border}",
                   "$description": "Warning feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.warning.default.focus.txt}",
+                  "$description": "Warning feedback txt. Use for default feedback states and messages."
                 }
               }
             },
@@ -1146,6 +1462,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.warning.secondary.normal.border}",
                   "$description": "Warning feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.warning.secondary.normal.txt}",
+                  "$description": "Warning feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "action": {
@@ -1163,6 +1484,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.warning.secondary.action.border}",
                   "$description": "Warning feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.warning.secondary.action.txt}",
+                  "$description": "Warning feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "active": {
@@ -1180,6 +1506,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.warning.secondary.active.border}",
                   "$description": "Warning feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.warning.secondary.active.txt}",
+                  "$description": "Warning feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "focus": {
@@ -1197,6 +1528,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.warning.secondary.focus.border}",
                   "$description": "Warning feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.warning.secondary.focus.txt}",
+                  "$description": "Warning feedback txt. Use for secondary variant feedback states and messages."
                 }
               }
             }
@@ -1218,6 +1554,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.danger.default.normal.border}",
                   "$description": "Danger feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.danger.default.normal.txt}",
+                  "$description": "Danger feedback txt. Use for default feedback states and messages."
                 }
               },
               "action": {
@@ -1235,6 +1576,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.danger.default.action.border}",
                   "$description": "Danger feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.danger.default.action.txt}",
+                  "$description": "Danger feedback txt. Use for default feedback states and messages."
                 }
               },
               "active": {
@@ -1252,6 +1598,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.danger.default.active.border}",
                   "$description": "Danger feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.danger.default.active.txt}",
+                  "$description": "Danger feedback txt. Use for default feedback states and messages."
                 }
               },
               "focus": {
@@ -1269,6 +1620,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.danger.default.focus.border}",
                   "$description": "Danger feedback border. Use for default feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.danger.default.focus.txt}",
+                  "$description": "Danger feedback txt. Use for default feedback states and messages."
                 }
               }
             },
@@ -1288,6 +1644,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.danger.secondary.normal.border}",
                   "$description": "Danger feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.danger.secondary.normal.txt}",
+                  "$description": "Danger feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "action": {
@@ -1305,6 +1666,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.danger.secondary.action.border}",
                   "$description": "Danger feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.danger.secondary.action.txt}",
+                  "$description": "Danger feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "active": {
@@ -1322,6 +1688,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.danger.secondary.active.border}",
                   "$description": "Danger feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.danger.secondary.active.txt}",
+                  "$description": "Danger feedback txt. Use for secondary variant feedback states and messages."
                 }
               },
               "focus": {
@@ -1339,6 +1710,11 @@
                   "$type": "color",
                   "$value": "{surface.color.interface.feedback.danger.secondary.focus.border}",
                   "$description": "Danger feedback border. Use for secondary variant feedback states and messages."
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{surface.color.interface.feedback.danger.secondary.focus.txt}",
+                  "$description": "Danger feedback txt. Use for secondary variant feedback states and messages."
                 }
               }
             }
@@ -1460,6 +1836,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.default.lowest.border}",
                 "$description": "Promo product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.default.lowest.txt}",
+                "$description": "Promo product txt. Use for product-specific default surfaces."
               }
             },
             "low": {
@@ -1477,6 +1858,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.default.low.border}",
                 "$description": "Promo product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.default.low.txt}",
+                "$description": "Promo product txt. Use for product-specific default surfaces."
               }
             },
             "default": {
@@ -1494,6 +1880,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.default.default.border}",
                 "$description": "Promo product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.default.default.txt}",
+                "$description": "Promo product txt. Use for product-specific default surfaces."
               }
             },
             "high": {
@@ -1511,6 +1902,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.default.high.border}",
                 "$description": "Promo product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.default.high.txt}",
+                "$description": "Promo product txt. Use for product-specific default surfaces."
               }
             },
             "highest": {
@@ -1528,6 +1924,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.default.highest.border}",
                 "$description": "Promo product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.default.highest.txt}",
+                "$description": "Promo product txt. Use for product-specific default surfaces."
               }
             }
           },
@@ -1547,6 +1948,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.secondary.lowest.border}",
                 "$description": "Promo product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.secondary.lowest.txt}",
+                "$description": "Promo product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "low": {
@@ -1564,6 +1970,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.secondary.low.border}",
                 "$description": "Promo product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.secondary.low.txt}",
+                "$description": "Promo product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "default": {
@@ -1581,6 +1992,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.secondary.default.border}",
                 "$description": "Promo product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.secondary.default.txt}",
+                "$description": "Promo product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "high": {
@@ -1598,6 +2014,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.secondary.high.border}",
                 "$description": "Promo product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.secondary.high.txt}",
+                "$description": "Promo product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "highest": {
@@ -1615,6 +2036,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.promo.secondary.highest.border}",
                 "$description": "Promo product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.promo.secondary.highest.txt}",
+                "$description": "Promo product txt. Use for product-specific secondary variant surfaces."
               }
             }
           }
@@ -1636,6 +2062,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.default.lowest.border}",
                 "$description": "Cashback product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.default.lowest.txt}",
+                "$description": "Cashback product txt. Use for product-specific default surfaces."
               }
             },
             "low": {
@@ -1653,6 +2084,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.default.low.border}",
                 "$description": "Cashback product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.default.low.txt}",
+                "$description": "Cashback product txt. Use for product-specific default surfaces."
               }
             },
             "default": {
@@ -1670,6 +2106,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.default.default.border}",
                 "$description": "Cashback product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.default.default.txt}",
+                "$description": "Cashback product txt. Use for product-specific default surfaces."
               }
             },
             "high": {
@@ -1687,6 +2128,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.default.high.border}",
                 "$description": "Cashback product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.default.high.txt}",
+                "$description": "Cashback product txt. Use for product-specific default surfaces."
               }
             },
             "highest": {
@@ -1704,6 +2150,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.default.highest.border}",
                 "$description": "Cashback product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.default.highest.txt}",
+                "$description": "Cashback product txt. Use for product-specific default surfaces."
               }
             }
           },
@@ -1723,6 +2174,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.secondary.lowest.border}",
                 "$description": "Cashback product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.secondary.lowest.txt}",
+                "$description": "Cashback product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "low": {
@@ -1740,6 +2196,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.secondary.low.border}",
                 "$description": "Cashback product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.secondary.low.txt}",
+                "$description": "Cashback product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "default": {
@@ -1757,6 +2218,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.secondary.default.border}",
                 "$description": "Cashback product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.secondary.default.txt}",
+                "$description": "Cashback product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "high": {
@@ -1774,6 +2240,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.secondary.high.border}",
                 "$description": "Cashback product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.secondary.high.txt}",
+                "$description": "Cashback product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "highest": {
@@ -1791,6 +2262,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.cashback.secondary.highest.border}",
                 "$description": "Cashback product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.cashback.secondary.highest.txt}",
+                "$description": "Cashback product txt. Use for product-specific secondary variant surfaces."
               }
             }
           }
@@ -1812,6 +2288,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.default.lowest.border}",
                 "$description": "Premium product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.default.lowest.txt}",
+                "$description": "Premium product txt. Use for product-specific default surfaces."
               }
             },
             "low": {
@@ -1829,6 +2310,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.default.low.border}",
                 "$description": "Premium product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.default.low.txt}",
+                "$description": "Premium product txt. Use for product-specific default surfaces."
               }
             },
             "default": {
@@ -1846,6 +2332,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.default.default.border}",
                 "$description": "Premium product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.default.default.txt}",
+                "$description": "Premium product txt. Use for product-specific default surfaces."
               }
             },
             "high": {
@@ -1863,6 +2354,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.default.high.border}",
                 "$description": "Premium product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.default.high.txt}",
+                "$description": "Premium product txt. Use for product-specific default surfaces."
               }
             },
             "highest": {
@@ -1880,6 +2376,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.default.highest.border}",
                 "$description": "Premium product border. Use for product-specific default surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.default.highest.txt}",
+                "$description": "Premium product txt. Use for product-specific default surfaces."
               }
             }
           },
@@ -1899,6 +2400,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.secondary.lowest.border}",
                 "$description": "Premium product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.secondary.lowest.txt}",
+                "$description": "Premium product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "low": {
@@ -1916,6 +2422,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.secondary.low.border}",
                 "$description": "Premium product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.secondary.low.txt}",
+                "$description": "Premium product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "default": {
@@ -1933,6 +2444,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.secondary.default.border}",
                 "$description": "Premium product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.secondary.default.txt}",
+                "$description": "Premium product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "high": {
@@ -1950,6 +2466,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.secondary.high.border}",
                 "$description": "Premium product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.secondary.high.txt}",
+                "$description": "Premium product txt. Use for product-specific secondary variant surfaces."
               }
             },
             "highest": {
@@ -1967,6 +2488,11 @@
                 "$type": "color",
                 "$value": "{surface.color.product.premium.secondary.highest.border}",
                 "$description": "Premium product border. Use for product-specific secondary variant surfaces."
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{surface.color.product.premium.secondary.highest.txt}",
+                "$description": "Premium product txt. Use for product-specific secondary variant surfaces."
               }
             }
           }

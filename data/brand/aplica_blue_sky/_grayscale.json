@@ -188,6 +188,68 @@
               "$type": "color",
               "$value": "#000000"
             }
+          },
+          "txt": {
+            "5": {
+              "$type": "color",
+              "$value": "#666666"
+            },
+            "10": {
+              "$type": "color",
+              "$value": "#666666"
+            },
+            "20": {
+              "$type": "color",
+              "$value": "#666666"
+            },
+            "30": {
+              "$type": "color",
+              "$value": "#666666"
+            },
+            "40": {
+              "$type": "color",
+              "$value": "#666666"
+            },
+            "50": {
+              "$type": "color",
+              "$value": "#666666"
+            },
+            "60": {
+              "$type": "color",
+              "$value": "#666666"
+            },
+            "70": {
+              "$type": "color",
+              "$value": "#666666"
+            },
+            "80": {
+              "$type": "color",
+              "$value": "#666666"
+            },
+            "90": {
+              "$type": "color",
+              "$value": "#555555"
+            },
+            "100": {
+              "$type": "color",
+              "$value": "#444444"
+            },
+            "110": {
+              "$type": "color",
+              "$value": "#333333"
+            },
+            "120": {
+              "$type": "color",
+              "$value": "#222222"
+            },
+            "130": {
+              "$type": "color",
+              "$value": "#111111"
+            },
+            "140": {
+              "$type": "color",
+              "$value": "#000000"
+            }
           }
         }
       },
@@ -337,6 +399,68 @@
             "40": {
               "$type": "color",
               "$value": "#666666"
+            },
+            "50": {
+              "$type": "color",
+              "$value": "#777777"
+            },
+            "60": {
+              "$type": "color",
+              "$value": "#888888"
+            },
+            "70": {
+              "$type": "color",
+              "$value": "#999999"
+            },
+            "80": {
+              "$type": "color",
+              "$value": "#aaaaaa"
+            },
+            "90": {
+              "$type": "color",
+              "$value": "#bbbbbb"
+            },
+            "100": {
+              "$type": "color",
+              "$value": "#cccccc"
+            },
+            "110": {
+              "$type": "color",
+              "$value": "#dddddd"
+            },
+            "120": {
+              "$type": "color",
+              "$value": "#eeeeee"
+            },
+            "130": {
+              "$type": "color",
+              "$value": "#f7f7f7"
+            },
+            "140": {
+              "$type": "color",
+              "$value": "#f7f7f7"
+            }
+          },
+          "txt": {
+            "5": {
+              "$type": "color",
+              "$value": "#777777"
+            },
+            "10": {
+              "$type": "color",
+              "$value": "#777777"
+            },
+            "20": {
+              "$type": "color",
+              "$value": "#777777"
+            },
+            "30": {
+              "$type": "color",
+              "$value": "#777777"
+            },
+            "40": {
+              "$type": "color",
+              "$value": "#777777"
             },
             "50": {
               "$type": "color",

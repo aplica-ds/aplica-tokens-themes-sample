@@ -17,6 +17,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#aefcac"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#006100"
                 }
               },
               "low": {
@@ -31,6 +35,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#7fe47e"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#006100"
                 }
               },
               "default": {
@@ -45,6 +53,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#228e29"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#006100"
                 }
               },
               "high": {
@@ -59,6 +71,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#001000"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#002300"
                 }
               },
               "highest": {
@@ -71,6 +87,10 @@
                   "$value": "#c4ffc1"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#000200"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#000200"
                 }
@@ -89,6 +109,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ff9994"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#a60000"
                 }
               },
               "low": {
@@ -103,6 +127,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ff6f6e"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#a60000"
                 }
               },
               "default": {
@@ -112,11 +140,15 @@
                 },
                 "txtOn": {
                   "$type": "color",
-                  "$value": "#000000"
+                  "$value": "#ffffff"
                 },
                 "border": {
                   "$type": "color",
                   "$value": "#bc0013"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#a60000"
                 }
               },
               "high": {
@@ -131,6 +163,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#350000"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#4c0000"
                 }
               },
               "highest": {
@@ -143,6 +179,10 @@
                   "$value": "#ffcac1"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#160000"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#160000"
                 }
@@ -161,6 +201,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffdc8d"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#762800"
                 }
               },
               "low": {
@@ -175,6 +219,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffc253"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#762800"
                 }
               },
               "default": {
@@ -189,6 +237,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#c67400"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#762800"
                 }
               },
               "high": {
@@ -203,6 +255,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#290000"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#420000"
                 }
               },
               "highest": {
@@ -215,6 +271,10 @@
                   "$value": "#ffea9d"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#090000"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#090000"
                 }
@@ -236,6 +296,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#e8efe8"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 },
                 "negative": {
@@ -248,6 +312,10 @@
                     "$value": "#ffffff"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#000100"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#000100"
                   }
@@ -266,6 +334,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#f4fbf3"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 },
                 "negative": {
@@ -280,6 +352,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#030703"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#000100"
                   }
                 }
               }
@@ -298,6 +374,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#e8efe8"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 },
                 "negative": {
@@ -310,6 +390,10 @@
                     "$value": "#ffffff"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#000100"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#000100"
                   }
@@ -328,6 +412,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#d0d9d0"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 },
                 "negative": {
@@ -340,6 +428,10 @@
                     "$value": "#ffffff"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#000100"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#000100"
                   }
@@ -358,6 +450,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#8f988f"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 },
                 "negative": {
@@ -370,6 +466,10 @@
                     "$value": "#ffffff"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#1e251e"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#1e251e"
                   }
@@ -388,6 +488,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#545c53"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 },
                 "negative": {
@@ -402,6 +506,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#545c53"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 }
               },
@@ -418,6 +526,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#1e251e"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#1e251e"
                   }
                 },
                 "negative": {
@@ -432,6 +544,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#8f988f"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 }
               },
@@ -448,6 +564,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#030703"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#030703"
                   }
                 },
                 "negative": {
@@ -462,6 +582,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#bac3b9"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 }
               },
@@ -478,6 +602,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#000100"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#000100"
                   }
                 },
                 "negative": {
@@ -492,6 +620,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#d0d9d0"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#414941"
                   }
                 }
               }
@@ -510,6 +642,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#eeeeee"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#555555"
                   }
                 },
                 "negative": {
@@ -522,6 +658,10 @@
                     "$value": "#f7f7f7"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#000000"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#000000"
                   }
@@ -540,6 +680,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#dddddd"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#555555"
                   }
                 },
                 "negative": {
@@ -552,6 +696,10 @@
                     "$value": "#f7f7f7"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#111111"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#111111"
                   }
@@ -570,6 +718,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#aaaaaa"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#555555"
                   }
                 },
                 "negative": {
@@ -582,6 +734,10 @@
                     "$value": "#f7f7f7"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#444444"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#444444"
                   }
@@ -600,6 +756,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#777777"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#555555"
                   }
                 },
                 "negative": {
@@ -614,6 +774,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#777777"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#555555"
                   }
                 }
               },
@@ -630,6 +794,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#444444"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#444444"
                   }
                 },
                 "negative": {
@@ -644,6 +812,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#aaaaaa"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#555555"
                   }
                 }
               },
@@ -660,6 +832,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#222222"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#222222"
                   }
                 },
                 "negative": {
@@ -674,6 +850,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#cccccc"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#555555"
                   }
                 }
               },
@@ -690,6 +870,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#111111"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#111111"
                   }
                 },
                 "negative": {
@@ -704,6 +888,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#dddddd"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#555555"
                   }
                 }
               }
@@ -735,7 +923,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "action": {
                     "$type": "color",
@@ -766,6 +954,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#6bb66b"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#00570d"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#00570d"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#003700"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#00570d"
                   }
                 }
               },
@@ -823,6 +1029,24 @@
                     "$type": "color",
                     "$value": "#e26e54"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#9c2d13"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#790100"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#570000"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#9c2d13"
+                  }
                 }
               },
               "link": {
@@ -878,6 +1102,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#dcb98c"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#65471c"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#65471c"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#503303"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#65471c"
                   }
                 }
               }
@@ -937,6 +1179,24 @@
                     "$type": "color",
                     "$value": "#bbefe4"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#12594e"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#12594e"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#12594e"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#12594e"
+                  }
                 }
               },
               "info_secondary": {
@@ -965,7 +1225,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "active": {
                     "$type": "color",
@@ -992,6 +1252,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#61e5c7"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#00533d"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#00533d"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#00533d"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#00533d"
                   }
                 }
               },
@@ -1021,7 +1299,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "active": {
                     "$type": "color",
@@ -1049,6 +1327,24 @@
                     "$type": "color",
                     "$value": "#fcb9d9"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#632d4a"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#632d4a"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#632d4a"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#632d4a"
+                  }
                 }
               },
               "success_secondary": {
@@ -1073,7 +1369,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "action": {
                     "$type": "color",
@@ -1104,6 +1400,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#fb6fac"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#8f0050"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#8f0050"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#650030"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#8f0050"
                   }
                 }
               },
@@ -1161,6 +1475,24 @@
                     "$type": "color",
                     "$value": "#f0dbbc"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#5c4623"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#5c4623"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#5c4623"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#5c4623"
+                  }
                 }
               },
               "warning_secondary": {
@@ -1189,7 +1521,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "active": {
                     "$type": "color",
@@ -1216,6 +1548,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#ffb44d"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#813d00"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#813d00"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#692700"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#813d00"
                   }
                 }
               },
@@ -1253,7 +1603,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   }
                 },
                 "border": {
@@ -1272,6 +1622,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#435d41"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#001501"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#000e00"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#000800"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#2b452a"
                   }
                 }
               },
@@ -1329,6 +1697,24 @@
                     "$type": "color",
                     "$value": "#ebf0eb"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#505550"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#505550"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#505550"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#505550"
+                  }
                 }
               }
             },
@@ -1344,6 +1730,10 @@
               "border": {
                 "$type": "color",
                 "$value": "#dddddd"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "#555555"
               }
             }
           },
@@ -1371,7 +1761,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "action": {
                     "$type": "color",
@@ -1402,6 +1792,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#83c182"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#00570d"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#00570d"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#003700"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#00570d"
                   }
                 }
               },
@@ -1459,6 +1867,24 @@
                     "$type": "color",
                     "$value": "#ea866e"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#9c2d13"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#9c2d13"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#570000"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#790100"
+                  }
                 }
               },
               "link": {
@@ -1514,6 +1940,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#e2c49e"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#65471c"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#65471c"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#503303"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#65471c"
                   }
                 }
               }
@@ -1573,6 +2017,24 @@
                     "$type": "color",
                     "$value": "#c6f1e7"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#12594e"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#12594e"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#12594e"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#12594e"
+                  }
                 }
               },
               "info_secondary": {
@@ -1609,7 +2071,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   }
                 },
                 "border": {
@@ -1628,6 +2090,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#80e9cf"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#00533d"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#00533d"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#00533d"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#00533d"
                   }
                 }
               },
@@ -1665,7 +2145,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   }
                 },
                 "border": {
@@ -1684,6 +2164,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#fdc4de"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#632d4a"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#632d4a"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#632d4a"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#632d4a"
                   }
                 }
               },
@@ -1709,7 +2207,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "action": {
                     "$type": "color",
@@ -1740,6 +2238,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#ff87b8"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#8f0050"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#8f0050"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#650030"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#8f0050"
                   }
                 }
               },
@@ -1797,6 +2313,24 @@
                     "$type": "color",
                     "$value": "#f2e0c5"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#5c4623"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#5c4623"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#5c4623"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#5c4623"
+                  }
                 }
               },
               "warning_secondary": {
@@ -1833,7 +2367,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   }
                 },
                 "border": {
@@ -1852,6 +2386,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#ffc06e"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#813d00"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#813d00"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#692700"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#813d00"
                   }
                 }
               },
@@ -1881,7 +2433,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "active": {
                     "$type": "color",
@@ -1908,6 +2460,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#5e755c"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#001501"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#2b452a"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#000800"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#000e00"
                   }
                 }
               },
@@ -1965,6 +2535,24 @@
                     "$type": "color",
                     "$value": "#edf1ed"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#505550"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#505550"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#505550"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#505550"
+                  }
                 }
               }
             },
@@ -1980,6 +2568,10 @@
               "border": {
                 "$type": "color",
                 "$value": "#222222"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "#111111"
               }
             }
           }
@@ -1999,6 +2591,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#eefcdc"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#32401d"
                 }
               },
               "low": {
@@ -2013,6 +2609,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#eaf9d9"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#32401d"
                 }
               },
               "default": {
@@ -2027,6 +2627,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#a3b58d"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#32401d"
                 }
               },
               "high": {
@@ -2041,6 +2645,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#050f00"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#1a2604"
                 }
               },
               "highest": {
@@ -2053,6 +2661,10 @@
                   "$value": "#f0ffdf"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#000100"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#000100"
                 }
@@ -2071,6 +2683,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#d6ffaa"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#2d5600"
                 }
               },
               "low": {
@@ -2085,6 +2701,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#c7f09a"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#2d5600"
                 }
               },
               "default": {
@@ -2099,6 +2719,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#78a736"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#2d5600"
                 }
               },
               "high": {
@@ -2113,6 +2737,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#000f00"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#012500"
                 }
               },
               "highest": {
@@ -2125,6 +2753,10 @@
                   "$value": "#e0ffb5"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#000100"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#000100"
                 }
@@ -2143,6 +2775,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#fff2e4"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#625040"
                 }
               },
               "low": {
@@ -2157,6 +2793,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#feeedf"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#625040"
                 }
               },
               "default": {
@@ -2171,6 +2811,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#bba796"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#625040"
                 }
               },
               "high": {
@@ -2185,6 +2829,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#150700"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#2c1e0f"
                 }
               },
               "highest": {
@@ -2197,6 +2845,10 @@
                   "$value": "#fff5e7"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#020000"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#020000"
                 }
@@ -2215,6 +2867,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffdfb4"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#7a470a"
                 }
               },
               "low": {
@@ -2229,6 +2885,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffc48e"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#7a470a"
                 }
               },
               "default": {
@@ -2243,6 +2903,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ac7541"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#7a470a"
                 }
               },
               "high": {
@@ -2257,6 +2921,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#1e0000"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#340500"
                 }
               },
               "highest": {
@@ -2269,6 +2937,10 @@
                   "$value": "#ffeec5"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#060000"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#060000"
                 }
@@ -2287,6 +2959,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#f1f5f8"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#4e5357"
                 }
               },
               "low": {
@@ -2301,6 +2977,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ebeff3"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#4e5357"
                 }
               },
               "default": {
@@ -2315,6 +2995,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#a4a9ad"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#4e5357"
                 }
               },
               "high": {
@@ -2329,6 +3013,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#080b0e"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#1d2124"
                 }
               },
               "highest": {
@@ -2341,6 +3029,10 @@
                   "$value": "#f5f9fc"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#000001"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#000001"
                 }
@@ -2359,6 +3051,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#bcecff"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#135380"
                 }
               },
               "low": {
@@ -2373,6 +3069,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#94d1ff"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#135380"
                 }
               },
               "default": {
@@ -2387,6 +3087,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#437faf"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#135380"
                 }
               },
               "high": {
@@ -2401,6 +3105,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#00022a"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#00153e"
                 }
               },
               "highest": {
@@ -2413,6 +3121,10 @@
                   "$value": "#d0ffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#00000f"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#00000f"
                 }
@@ -2433,6 +3145,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#000100"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#000100"
                 }
               },
               "low": {
@@ -2447,6 +3163,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#050f00"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#1a2604"
                 }
               },
               "default": {
@@ -2461,6 +3181,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#a3b58d"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#32401d"
                 }
               },
               "high": {
@@ -2475,6 +3199,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#eaf9d9"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#32401d"
                 }
               },
               "highest": {
@@ -2489,6 +3217,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#eefcdc"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#32401d"
                 }
               }
             },
@@ -2505,6 +3237,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#000100"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#000100"
                 }
               },
               "low": {
@@ -2519,6 +3255,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#000f00"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#012500"
                 }
               },
               "default": {
@@ -2533,6 +3273,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#78a736"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#2d5600"
                 }
               },
               "high": {
@@ -2547,6 +3291,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#c7f09a"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#2d5600"
                 }
               },
               "highest": {
@@ -2561,6 +3309,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#d6ffaa"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#2d5600"
                 }
               }
             },
@@ -2577,6 +3329,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#020000"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#020000"
                 }
               },
               "low": {
@@ -2591,6 +3347,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#150700"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#2c1e0f"
                 }
               },
               "default": {
@@ -2605,6 +3365,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#bba796"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#625040"
                 }
               },
               "high": {
@@ -2619,6 +3383,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#feeedf"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#625040"
                 }
               },
               "highest": {
@@ -2633,6 +3401,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#fff2e4"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#625040"
                 }
               }
             },
@@ -2649,6 +3421,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#060000"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#060000"
                 }
               },
               "low": {
@@ -2663,6 +3439,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#1e0000"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#340500"
                 }
               },
               "default": {
@@ -2677,6 +3457,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ac7541"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#7a470a"
                 }
               },
               "high": {
@@ -2691,6 +3475,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffc48e"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#7a470a"
                 }
               },
               "highest": {
@@ -2705,6 +3493,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffdfb4"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#7a470a"
                 }
               }
             },
@@ -2721,6 +3513,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#000001"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#000001"
                 }
               },
               "low": {
@@ -2735,6 +3531,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#080b0e"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#1d2124"
                 }
               },
               "default": {
@@ -2749,6 +3549,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#a4a9ad"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#4e5357"
                 }
               },
               "high": {
@@ -2763,6 +3567,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ebeff3"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#4e5357"
                 }
               },
               "highest": {
@@ -2777,6 +3585,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#f1f5f8"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#4e5357"
                 }
               }
             },
@@ -2793,6 +3605,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#00000f"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#00000f"
                 }
               },
               "low": {
@@ -2807,6 +3623,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#00022a"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#00153e"
                 }
               },
               "default": {
@@ -2821,6 +3641,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#437faf"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#135380"
                 }
               },
               "high": {
@@ -2835,6 +3659,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#94d1ff"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#135380"
                 }
               },
               "highest": {
@@ -2849,6 +3677,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#bcecff"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#135380"
                 }
               }
             }
@@ -3047,6 +3879,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ccffca"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#c2ffbf"
                 }
               },
               "low": {
@@ -3061,6 +3897,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#96ea94"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#8ce08b"
                 }
               },
               "default": {
@@ -3075,6 +3915,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#7acd78"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#70c36f"
                 }
               },
               "high": {
@@ -3089,6 +3933,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#388b3a"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#58BD59"
                 }
               },
               "highest": {
@@ -3103,6 +3951,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#003500"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#58BD59"
                 }
               }
             },
@@ -3119,6 +3971,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffd2ca"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ffc3bb"
                 }
               },
               "low": {
@@ -3133,6 +3989,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ff8c86"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ff7f7a"
                 }
               },
               "default": {
@@ -3142,9 +4002,13 @@
                 },
                 "txtOn": {
                   "$type": "color",
-                  "$value": "#000000"
+                  "$value": "#ffffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#fa6461"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#fa6461"
                 }
@@ -3161,6 +4025,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#b11625"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#fa6461"
                 }
               },
               "highest": {
@@ -3175,6 +4043,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#5a0000"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#fa6461"
                 }
               }
             },
@@ -3191,6 +4063,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffecac"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ffe5a5"
                 }
               },
               "low": {
@@ -3205,6 +4081,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffcd75"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ffc66e"
                 }
               },
               "default": {
@@ -3219,6 +4099,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffb961"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#fdb35a"
                 }
               },
               "high": {
@@ -3233,6 +4117,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#be780d"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#da9236"
                 }
               },
               "highest": {
@@ -3247,6 +4135,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#561600"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#da9236"
                 }
               }
             }
@@ -3266,6 +4158,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#010201"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 },
                 "negative": {
@@ -3278,6 +4174,10 @@
                     "$value": "#000000"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#f4faf4"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#f4faf4"
                   }
@@ -3296,6 +4196,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#010201"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 },
                 "negative": {
@@ -3310,6 +4214,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#dde4dd"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#f4faf4"
                   }
                 }
               }
@@ -3328,6 +4236,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#010201"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 },
                 "negative": {
@@ -3340,6 +4252,10 @@
                     "$value": "#000000"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#f4faf4"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#f4faf4"
                   }
@@ -3358,6 +4274,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#080d08"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 },
                 "negative": {
@@ -3370,6 +4290,10 @@
                     "$value": "#000000"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#f4faf4"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#f4faf4"
                   }
@@ -3388,6 +4312,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#393f38"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 },
                 "negative": {
@@ -3400,6 +4328,10 @@
                     "$value": "#000000"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#b0b8b0"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#b0b8b0"
                   }
@@ -3418,6 +4350,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#727971"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 },
                 "negative": {
@@ -3432,6 +4368,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#727971"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 }
               },
@@ -3448,6 +4388,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#b0b8b0"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#b0b8b0"
                   }
                 },
                 "negative": {
@@ -3462,6 +4406,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#393f38"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 }
               },
@@ -3478,6 +4426,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#dde4dd"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#dde4dd"
                   }
                 },
                 "negative": {
@@ -3492,6 +4444,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#171d17"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 }
               },
@@ -3508,6 +4464,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#f4faf4"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#f4faf4"
                   }
                 },
                 "negative": {
@@ -3522,6 +4482,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#080d08"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#9ba29a"
                   }
                 }
               }
@@ -3540,6 +4504,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#222222"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#999999"
                   }
                 },
                 "negative": {
@@ -3552,6 +4520,10 @@
                     "$value": "#111111"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#f7f7f7"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#f7f7f7"
                   }
@@ -3570,6 +4542,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#333333"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#999999"
                   }
                 },
                 "negative": {
@@ -3582,6 +4558,10 @@
                     "$value": "#111111"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#f7f7f7"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#f7f7f7"
                   }
@@ -3600,6 +4580,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#666666"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#999999"
                   }
                 },
                 "negative": {
@@ -3612,6 +4596,10 @@
                     "$value": "#111111"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#cccccc"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#cccccc"
                   }
@@ -3630,6 +4618,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#999999"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#999999"
                   }
                 },
                 "negative": {
@@ -3642,6 +4634,10 @@
                     "$value": "#111111"
                   },
                   "border": {
+                    "$type": "color",
+                    "$value": "#999999"
+                  },
+                  "txt": {
                     "$type": "color",
                     "$value": "#999999"
                   }
@@ -3660,6 +4656,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#cccccc"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#cccccc"
                   }
                 },
                 "negative": {
@@ -3674,6 +4674,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#666666"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#999999"
                   }
                 }
               },
@@ -3690,6 +4694,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#eeeeee"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#eeeeee"
                   }
                 },
                 "negative": {
@@ -3704,6 +4712,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#444444"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#999999"
                   }
                 }
               },
@@ -3720,6 +4732,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#f7f7f7"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#f7f7f7"
                   }
                 },
                 "negative": {
@@ -3734,6 +4750,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "#333333"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "#999999"
                   }
                 }
               }
@@ -3765,7 +4785,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "action": {
                     "$type": "color",
@@ -3797,6 +4817,24 @@
                     "$type": "color",
                     "$value": "#17551b"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#67a467"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#75b374"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#91d090"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#67a467"
+                  }
                 }
               },
               "secondary": {
@@ -3825,7 +4863,7 @@
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "active": {
                     "$type": "color",
@@ -3852,6 +4890,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#711701"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#ea866e"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#ea866e"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#fc967e"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#ea866e"
                   }
                 }
               },
@@ -3908,6 +4964,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#775d3a"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#c5a883"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#d8ba95"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#ebcda7"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#C09E72"
                   }
                 }
               }
@@ -3967,6 +5041,24 @@
                     "$type": "color",
                     "$value": "#588d82"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#b1e8dc"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#c2ede3"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#caf4eb"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#74a99e"
+                  }
                 }
               },
               "info_secondary": {
@@ -4022,6 +5114,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#007f69"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#68d2b9"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#78e1c8"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#88f1d7"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#44b199"
                   }
                 }
               },
@@ -4079,6 +5189,24 @@
                     "$type": "color",
                     "$value": "#915f77"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#e8b0ca"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#f6bdd8"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#ffcae5"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#c690aa"
+                  }
                 }
               },
               "success_secondary": {
@@ -4103,11 +5231,11 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "action": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "active": {
                     "$type": "color",
@@ -4134,6 +5262,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#861650"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#f07aab"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#f07aab"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#ff95c6"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#f07aab"
                   }
                 }
               },
@@ -4191,6 +5337,24 @@
                     "$type": "color",
                     "$value": "#8e7a5b"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#e8d2b1"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#eddbc1"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#f6e4ca"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#aa9576"
+                  }
                 }
               },
               "warning_secondary": {
@@ -4246,6 +5410,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#925800"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#e6a754"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#f7b765"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#ffc876"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#E59B2E"
                   }
                 }
               },
@@ -4303,6 +5485,24 @@
                     "$type": "color",
                     "$value": "#000d00"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#92ab90"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#92ab90"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#92ab90"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#92ab90"
+                  }
                 }
               },
               "danger_secondary": {
@@ -4359,6 +5559,24 @@
                     "$type": "color",
                     "$value": "#898d89"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#e8ece8"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#ebefeb"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#eff3ef"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#a7aba7"
+                  }
                 }
               }
             },
@@ -4374,6 +5592,10 @@
               "border": {
                 "$type": "color",
                 "$value": "#333333"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "#999999"
               }
             }
           },
@@ -4401,7 +5623,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "action": {
                     "$type": "color",
@@ -4432,6 +5654,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#004700"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#67a467"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#67a467"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#91d090"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#75b374"
                   }
                 }
               },
@@ -4469,7 +5709,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   }
                 },
                 "border": {
@@ -4488,6 +5728,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#680000"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#ea866e"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#ea866e"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#fc967e"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#ea866e"
                   }
                 }
               },
@@ -4544,6 +5802,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#65471c"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#c5a883"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#C09E72"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#ebcda7"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#d8ba95"
                   }
                 }
               }
@@ -4603,6 +5879,24 @@
                     "$type": "color",
                     "$value": "#327368"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#b1e8dc"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#74a99e"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#caf4eb"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#c2ede3"
+                  }
                 }
               },
               "info_secondary": {
@@ -4658,6 +5952,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#006a52"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#68d2b9"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#44b199"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#88f1d7"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#78e1c8"
                   }
                 }
               },
@@ -4715,6 +6027,24 @@
                     "$type": "color",
                     "$value": "#7c4461"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#e8b0ca"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#c690aa"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#ffcae5"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#f6bdd8"
+                  }
                 }
               },
               "success_secondary": {
@@ -4739,7 +6069,7 @@
                 "txtOn": {
                   "normal": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   },
                   "action": {
                     "$type": "color",
@@ -4751,7 +6081,7 @@
                   },
                   "focus": {
                     "$type": "color",
-                    "$value": "#000000"
+                    "$value": "#ffffff"
                   }
                 },
                 "border": {
@@ -4770,6 +6100,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#7a0040"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#f07aab"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#f07aab"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#ff95c6"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#f07aab"
                   }
                 }
               },
@@ -4827,6 +6175,24 @@
                     "$type": "color",
                     "$value": "#765f3b"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#e8d2b1"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#aa9576"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#f6e4ca"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#eddbc1"
+                  }
                 }
               },
               "warning_secondary": {
@@ -4882,6 +6248,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "#813d00"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#e6a754"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#E59B2E"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#ffc876"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#f7b765"
                   }
                 }
               },
@@ -4939,6 +6323,24 @@
                     "$type": "color",
                     "$value": "#000b00"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#92ab90"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#92ab90"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#92ab90"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#92ab90"
+                  }
                 }
               },
               "danger_secondary": {
@@ -4995,6 +6397,24 @@
                     "$type": "color",
                     "$value": "#6b716b"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "#e8ece8"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "#a7aba7"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "#eff3ef"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "#ebefeb"
+                  }
                 }
               }
             },
@@ -5010,6 +6430,10 @@
               "border": {
                 "$type": "color",
                 "$value": "#eeeeee"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "#f7f7f7"
               }
             }
           }
@@ -5029,6 +6453,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#f1fee3"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#f0fde1"
                 }
               },
               "low": {
@@ -5043,6 +6471,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#edf9de"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ebf8dd"
                 }
               },
               "default": {
@@ -5057,6 +6489,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#e9f6da"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#e8f4d9"
                 }
               },
               "high": {
@@ -5069,6 +6505,10 @@
                   "$value": "#ffffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#a5b492"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#a5b492"
                 }
@@ -5085,6 +6525,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#333f22"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#a5b492"
                 }
               }
             },
@@ -5101,6 +6545,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#e4ffc0"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#dfffbb"
                 }
               },
               "low": {
@@ -5115,6 +6563,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#d0f3ab"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#cbeea5"
                 }
               },
               "default": {
@@ -5129,6 +6581,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#bce78b"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#b7e286"
                 }
               },
               "high": {
@@ -5141,6 +6597,10 @@
                   "$value": "#ffffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#7ca44a"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#7ca44a"
                 }
@@ -5157,6 +6617,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#1b3c00"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#7ca44a"
                 }
               }
             },
@@ -5173,6 +6637,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#fff6e9"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#fff4e8"
                 }
               },
               "low": {
@@ -5187,6 +6655,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#fef0e3"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#fceee2"
                 }
               },
               "default": {
@@ -5201,6 +6673,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#f9ebdf"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#f8eadd"
                 }
               },
               "high": {
@@ -5213,6 +6689,10 @@
                   "$value": "#ffffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#b9a899"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#b9a899"
                 }
@@ -5229,6 +6709,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#44372a"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#b9a899"
                 }
               }
             },
@@ -5245,6 +6729,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#fff0cd"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ffe8c5"
                 }
               },
               "low": {
@@ -5259,6 +6747,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffcea1"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#f9c699"
                 }
               },
               "default": {
@@ -5273,6 +6765,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#e9b78b"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#e2b083"
                 }
               },
               "high": {
@@ -5287,6 +6783,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#a6784d"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#c09064"
                 }
               },
               "highest": {
@@ -5301,6 +6801,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#471f00"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#c09064"
                 }
               }
             },
@@ -5317,6 +6821,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#f5f9fc"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#f3f7fa"
                 }
               },
               "low": {
@@ -5331,6 +6839,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#edf1f4"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ebeff2"
                 }
               },
               "default": {
@@ -5345,6 +6857,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#e7ebee"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#e6eaec"
                 }
               },
               "high": {
@@ -5357,6 +6873,10 @@
                   "$value": "#ffffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#a4a9ac"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#a4a9ac"
                 }
@@ -5373,6 +6893,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#35393c"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#a4a9ac"
                 }
               }
             },
@@ -5389,6 +6913,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#d6feff"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ccf5ff"
                 }
               },
               "low": {
@@ -5403,6 +6931,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#a6daff"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#9dd0fd"
                 }
               },
               "default": {
@@ -5417,6 +6949,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#8cbeea"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#83b5e1"
                 }
               },
               "high": {
@@ -5431,6 +6967,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#4e7ea7"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#71ADE0"
                 }
               },
               "highest": {
@@ -5445,6 +6985,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#002a4d"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#71ADE0"
                 }
               }
             }
@@ -5463,6 +7007,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#333f22"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#a5b492"
                 }
               },
               "low": {
@@ -5475,6 +7023,10 @@
                   "$value": "#ffffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#a5b492"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#a5b492"
                 }
@@ -5491,6 +7043,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#e9f6da"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#e8f4d9"
                 }
               },
               "high": {
@@ -5505,6 +7061,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#edf9de"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ebf8dd"
                 }
               },
               "highest": {
@@ -5519,6 +7079,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#f1fee3"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#f0fde1"
                 }
               }
             },
@@ -5535,6 +7099,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#1b3c00"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#7ca44a"
                 }
               },
               "low": {
@@ -5547,6 +7115,10 @@
                   "$value": "#ffffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#7ca44a"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#7ca44a"
                 }
@@ -5563,6 +7135,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#bce78b"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#b7e286"
                 }
               },
               "high": {
@@ -5577,6 +7153,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#d0f3ab"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#cbeea5"
                 }
               },
               "highest": {
@@ -5591,6 +7171,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#e4ffc0"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#dfffbb"
                 }
               }
             },
@@ -5607,6 +7191,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#44372a"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#b9a899"
                 }
               },
               "low": {
@@ -5619,6 +7207,10 @@
                   "$value": "#ffffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#b9a899"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#b9a899"
                 }
@@ -5635,6 +7227,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#f9ebdf"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#f8eadd"
                 }
               },
               "high": {
@@ -5649,6 +7245,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#fef0e3"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#fceee2"
                 }
               },
               "highest": {
@@ -5663,6 +7263,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#fff6e9"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#fff4e8"
                 }
               }
             },
@@ -5679,6 +7283,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#471f00"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#c09064"
                 }
               },
               "low": {
@@ -5693,6 +7301,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#a6784d"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#c09064"
                 }
               },
               "default": {
@@ -5707,6 +7319,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#e9b78b"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#e2b083"
                 }
               },
               "high": {
@@ -5721,6 +7337,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#ffcea1"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#f9c699"
                 }
               },
               "highest": {
@@ -5735,6 +7355,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#fff0cd"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ffe8c5"
                 }
               }
             },
@@ -5751,6 +7375,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#35393c"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#a4a9ac"
                 }
               },
               "low": {
@@ -5763,6 +7391,10 @@
                   "$value": "#ffffff"
                 },
                 "border": {
+                  "$type": "color",
+                  "$value": "#a4a9ac"
+                },
+                "txt": {
                   "$type": "color",
                   "$value": "#a4a9ac"
                 }
@@ -5779,6 +7411,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#e7ebee"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#e6eaec"
                 }
               },
               "high": {
@@ -5793,6 +7429,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#edf1f4"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ebeff2"
                 }
               },
               "highest": {
@@ -5807,6 +7447,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#f5f9fc"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#f3f7fa"
                 }
               }
             },
@@ -5823,6 +7467,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#002a4d"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#71ADE0"
                 }
               },
               "low": {
@@ -5837,6 +7485,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#4e7ea7"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#71ADE0"
                 }
               },
               "default": {
@@ -5851,6 +7503,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#8cbeea"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#83b5e1"
                 }
               },
               "high": {
@@ -5865,6 +7521,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#a6daff"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#9dd0fd"
                 }
               },
               "highest": {
@@ -5879,6 +7539,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "#d6feff"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "#ccf5ff"
                 }
               }
             }

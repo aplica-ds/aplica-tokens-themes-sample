@@ -17,6 +17,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.info.default.normal.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.info.default.normal.txt}"
                 }
               },
               "action": {
@@ -31,6 +35,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.info.default.action.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.info.default.action.txt}"
                 }
               },
               "active": {
@@ -45,6 +53,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.info.default.active.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.info.default.active.txt}"
                 }
               },
               "focus": {
@@ -59,6 +71,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.info.default.focus.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.info.default.focus.txt}"
                 }
               }
             },
@@ -75,6 +91,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.info.secondary.normal.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.info.secondary.normal.txt}"
                 }
               },
               "action": {
@@ -89,6 +109,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.info.secondary.action.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.info.secondary.action.txt}"
                 }
               },
               "active": {
@@ -103,6 +127,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.info.secondary.active.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.info.secondary.active.txt}"
                 }
               },
               "focus": {
@@ -117,6 +145,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.info.secondary.focus.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.info.secondary.focus.txt}"
                 }
               }
             }
@@ -135,6 +167,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.success.default.normal.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.success.default.normal.txt}"
                 }
               },
               "action": {
@@ -149,6 +185,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.success.default.action.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.success.default.action.txt}"
                 }
               },
               "active": {
@@ -163,6 +203,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.success.default.active.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.success.default.active.txt}"
                 }
               },
               "focus": {
@@ -177,6 +221,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.success.default.focus.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.success.default.focus.txt}"
                 }
               }
             },
@@ -193,6 +241,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.success.secondary.normal.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.success.secondary.normal.txt}"
                 }
               },
               "action": {
@@ -207,6 +259,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.success.secondary.action.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.success.secondary.action.txt}"
                 }
               },
               "active": {
@@ -221,6 +277,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.success.secondary.active.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.success.secondary.active.txt}"
                 }
               },
               "focus": {
@@ -235,6 +295,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.success.secondary.focus.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.success.secondary.focus.txt}"
                 }
               }
             }
@@ -253,6 +317,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.warning.default.normal.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.warning.default.normal.txt}"
                 }
               },
               "action": {
@@ -267,6 +335,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.warning.default.action.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.warning.default.action.txt}"
                 }
               },
               "active": {
@@ -281,6 +353,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.warning.default.active.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.warning.default.active.txt}"
                 }
               },
               "focus": {
@@ -295,6 +371,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.warning.default.focus.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.warning.default.focus.txt}"
                 }
               }
             },
@@ -311,6 +391,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.warning.secondary.normal.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.warning.secondary.normal.txt}"
                 }
               },
               "action": {
@@ -325,6 +409,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.warning.secondary.action.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.warning.secondary.action.txt}"
                 }
               },
               "active": {
@@ -339,6 +427,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.warning.secondary.active.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.warning.secondary.active.txt}"
                 }
               },
               "focus": {
@@ -353,6 +445,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.warning.secondary.focus.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.warning.secondary.focus.txt}"
                 }
               }
             }
@@ -371,6 +467,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.danger.default.normal.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.danger.default.normal.txt}"
                 }
               },
               "action": {
@@ -385,6 +485,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.danger.default.action.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.danger.default.action.txt}"
                 }
               },
               "active": {
@@ -399,6 +503,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.danger.default.active.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.danger.default.active.txt}"
                 }
               },
               "focus": {
@@ -413,6 +521,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.danger.default.focus.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.danger.default.focus.txt}"
                 }
               }
             },
@@ -429,6 +541,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.danger.secondary.normal.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.danger.secondary.normal.txt}"
                 }
               },
               "action": {
@@ -443,6 +559,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.danger.secondary.action.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.danger.secondary.action.txt}"
                 }
               },
               "active": {
@@ -457,6 +577,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.danger.secondary.active.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.danger.secondary.active.txt}"
                 }
               },
               "focus": {
@@ -471,6 +595,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.interface.negative.feedback.danger.secondary.focus.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.interface.negative.feedback.danger.secondary.focus.txt}"
                 }
               }
             }
@@ -490,6 +618,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.primary.normal.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.primary.normal.txt}"
               }
             },
             "action": {
@@ -504,6 +636,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.primary.action.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.primary.action.txt}"
               }
             },
             "active": {
@@ -518,6 +654,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.primary.active.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.primary.active.txt}"
               }
             },
             "focus": {
@@ -532,6 +672,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.primary.focus.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.primary.focus.txt}"
               }
             }
           },
@@ -548,6 +692,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.secondary.normal.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.secondary.normal.txt}"
               }
             },
             "action": {
@@ -562,6 +710,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.secondary.action.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.secondary.action.txt}"
               }
             },
             "active": {
@@ -576,6 +728,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.secondary.active.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.secondary.active.txt}"
               }
             },
             "focus": {
@@ -590,6 +746,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.secondary.focus.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.secondary.focus.txt}"
               }
             }
           },
@@ -606,6 +766,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.link.normal.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.link.normal.txt}"
               }
             },
             "action": {
@@ -620,6 +784,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.link.action.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.link.action.txt}"
               }
             },
             "active": {
@@ -634,6 +802,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.link.active.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.link.active.txt}"
               }
             },
             "focus": {
@@ -648,6 +820,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.link.focus.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.link.focus.txt}"
               }
             }
           },
@@ -664,6 +840,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.interface.negative.function.disabled.normal.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.interface.negative.function.disabled.normal.txt}"
               }
             }
           }
@@ -684,6 +864,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.default.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.default.lowest.txt}"
               }
             },
             "low": {
@@ -698,6 +882,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.default.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.default.low.txt}"
               }
             },
             "default": {
@@ -712,6 +900,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.default.default.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.default.default.txt}"
               }
             },
             "high": {
@@ -726,6 +918,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.default.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.default.high.txt}"
               }
             },
             "highest": {
@@ -740,6 +936,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.default.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.default.highest.txt}"
               }
             }
           },
@@ -756,6 +956,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.secondary.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.secondary.lowest.txt}"
               }
             },
             "low": {
@@ -770,6 +974,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.secondary.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.secondary.low.txt}"
               }
             },
             "default": {
@@ -784,6 +992,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.secondary.default.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.secondary.default.txt}"
               }
             },
             "high": {
@@ -798,6 +1010,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.secondary.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.secondary.high.txt}"
               }
             },
             "highest": {
@@ -812,6 +1028,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.promo.secondary.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.promo.secondary.highest.txt}"
               }
             }
           }
@@ -830,6 +1050,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.default.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.default.lowest.txt}"
               }
             },
             "low": {
@@ -844,6 +1068,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.default.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.default.low.txt}"
               }
             },
             "default": {
@@ -858,6 +1086,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.default.default.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.default.default.txt}"
               }
             },
             "high": {
@@ -872,6 +1104,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.default.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.default.high.txt}"
               }
             },
             "highest": {
@@ -886,6 +1122,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.default.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.default.highest.txt}"
               }
             }
           },
@@ -902,6 +1142,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.secondary.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.secondary.lowest.txt}"
               }
             },
             "low": {
@@ -916,6 +1160,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.secondary.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.secondary.low.txt}"
               }
             },
             "default": {
@@ -930,6 +1178,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.secondary.default.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.secondary.default.txt}"
               }
             },
             "high": {
@@ -944,6 +1196,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.secondary.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.secondary.high.txt}"
               }
             },
             "highest": {
@@ -958,6 +1214,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.cashback.secondary.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.cashback.secondary.highest.txt}"
               }
             }
           }
@@ -976,6 +1236,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.default.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.default.lowest.txt}"
               }
             },
             "low": {
@@ -990,6 +1254,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.default.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.default.low.txt}"
               }
             },
             "default": {
@@ -1004,6 +1272,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.default.default.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.default.default.txt}"
               }
             },
             "high": {
@@ -1018,6 +1290,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.default.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.default.high.txt}"
               }
             },
             "highest": {
@@ -1032,6 +1308,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.default.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.default.highest.txt}"
               }
             }
           },
@@ -1048,6 +1328,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.secondary.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.secondary.lowest.txt}"
               }
             },
             "low": {
@@ -1062,6 +1346,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.secondary.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.secondary.low.txt}"
               }
             },
             "default": {
@@ -1076,6 +1364,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.secondary.default.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.secondary.default.txt}"
               }
             },
             "high": {
@@ -1090,6 +1382,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.secondary.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.secondary.high.txt}"
               }
             },
             "highest": {
@@ -1104,6 +1400,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.product.premium.secondary.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.product.premium.secondary.highest.txt}"
               }
             }
           }
@@ -1203,6 +1503,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.brand.ambient.contrast.base.positive.negative.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.brand.ambient.contrast.base.positive.negative.txt}"
                 }
               },
               "negative": {
@@ -1217,6 +1521,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.brand.ambient.contrast.base.negative.negative.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.brand.ambient.contrast.base.negative.negative.txt}"
                 }
               }
             },
@@ -1233,6 +1541,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.brand.ambient.contrast.deep.positive.negative.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.brand.ambient.contrast.deep.positive.negative.txt}"
                 }
               },
               "negative": {
@@ -1247,6 +1559,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{mode.brand.ambient.contrast.deep.negative.negative.border}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{mode.brand.ambient.contrast.deep.negative.negative.txt}"
                 }
               }
             }
@@ -1264,6 +1580,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.neutral.lowest.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.neutral.lowest.negative.txt}"
               }
             },
             "lower": {
@@ -1278,6 +1598,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.neutral.lower.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.neutral.lower.negative.txt}"
               }
             },
             "low": {
@@ -1292,6 +1616,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.neutral.low.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.neutral.low.negative.txt}"
               }
             },
             "mid": {
@@ -1306,6 +1634,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.neutral.mid.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.neutral.mid.negative.txt}"
               }
             },
             "high": {
@@ -1320,6 +1652,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.neutral.high.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.neutral.high.negative.txt}"
               }
             },
             "higher": {
@@ -1334,6 +1670,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.neutral.higher.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.neutral.higher.negative.txt}"
               }
             },
             "highest": {
@@ -1348,6 +1688,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.neutral.highest.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.neutral.highest.negative.txt}"
               }
             }
           },
@@ -1364,6 +1708,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.grayscale.lowest.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.grayscale.lowest.negative.txt}"
               }
             },
             "lower": {
@@ -1378,6 +1726,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.grayscale.lower.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.grayscale.lower.negative.txt}"
               }
             },
             "low": {
@@ -1392,6 +1744,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.grayscale.low.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.grayscale.low.negative.txt}"
               }
             },
             "mid": {
@@ -1406,6 +1762,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.grayscale.mid.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.grayscale.mid.negative.txt}"
               }
             },
             "high": {
@@ -1420,6 +1780,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.grayscale.high.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.grayscale.high.negative.txt}"
               }
             },
             "higher": {
@@ -1434,6 +1798,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.grayscale.higher.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.grayscale.higher.negative.txt}"
               }
             },
             "highest": {
@@ -1448,6 +1816,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{mode.brand.ambient.grayscale.highest.negative.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{mode.brand.ambient.grayscale.highest.negative.txt}"
               }
             }
           }
@@ -1466,6 +1838,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.first.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.first.lowest.txt}"
               }
             },
             "low": {
@@ -1480,6 +1856,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.first.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.first.low.txt}"
               }
             },
             "default": {
@@ -1494,6 +1874,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.first.default.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.first.default.txt}"
               }
             },
             "high": {
@@ -1508,6 +1892,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.first.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.first.high.txt}"
               }
             },
             "highest": {
@@ -1522,6 +1910,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.first.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.first.highest.txt}"
               }
             }
           },
@@ -1538,6 +1930,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.second.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.second.lowest.txt}"
               }
             },
             "low": {
@@ -1552,6 +1948,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.second.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.second.low.txt}"
               }
             },
             "default": {
@@ -1566,6 +1966,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.second.default.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.second.default.txt}"
               }
             },
             "high": {
@@ -1580,6 +1984,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.second.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.second.high.txt}"
               }
             },
             "highest": {
@@ -1594,6 +2002,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.second.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.second.highest.txt}"
               }
             }
           },
@@ -1610,6 +2022,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.third.lowest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.third.lowest.txt}"
               }
             },
             "low": {
@@ -1624,6 +2040,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.third.low.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.third.low.txt}"
               }
             },
             "default": {
@@ -1638,6 +2058,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.third.default.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.third.default.txt}"
               }
             },
             "high": {
@@ -1652,6 +2076,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.third.high.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.third.high.txt}"
               }
             },
             "highest": {
@@ -1666,6 +2094,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{theme.color.dark.brand.branding.third.highest.border}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{theme.color.dark.brand.branding.third.highest.txt}"
               }
             }
           }

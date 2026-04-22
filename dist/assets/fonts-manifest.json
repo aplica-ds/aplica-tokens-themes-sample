@@ -1,0 +1,575 @@
+{
+  "$generated": "2026-04-22T13:48:03.817Z",
+  "brands": {
+    "aplica_blue_sky": {
+      "fontFamilies": {
+        "main": {
+          "family": "Roboto",
+          "assetDir": "fonts/Roboto",
+          "weights": {
+            "light": {
+              "normal": "Roboto-Light",
+              "italic": "Roboto-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "Roboto-Regular",
+              "italic": "Roboto-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Roboto-SemiBold",
+              "italic": "Roboto-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "Roboto-Bold",
+              "italic": "Roboto-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "Roboto-Black",
+              "italic": "Roboto-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "content": {
+          "family": "Roboto",
+          "assetDir": "fonts/Roboto",
+          "weights": {
+            "light": {
+              "normal": "Roboto-Light",
+              "italic": "Roboto-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "Roboto-Regular",
+              "italic": "Roboto-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Roboto-SemiBold",
+              "italic": "Roboto-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "Roboto-Bold",
+              "italic": "Roboto-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "Roboto-Black",
+              "italic": "Roboto-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "display": {
+          "family": "Sansita",
+          "assetDir": "fonts/Sansita",
+          "weights": {
+            "light": {
+              "normal": "Sansita-Regular",
+              "italic": "Sansita-RegularItalic",
+              "numeric": 400
+            },
+            "regular": {
+              "normal": "Sansita-Regular",
+              "italic": "Sansita-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Sansita-Bold",
+              "italic": "Sansita-BoldItalic",
+              "numeric": 700
+            },
+            "bold": {
+              "normal": "Sansita-ExtraBold",
+              "italic": "Sansita-ExtraBoldItalic",
+              "numeric": 800
+            },
+            "black": {
+              "normal": "Sansita-Black",
+              "italic": "Sansita-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "code": {
+          "family": "IBM Plex Mono",
+          "assetDir": "fonts/IBM_Plex_Mono",
+          "weights": {
+            "light": {
+              "normal": "IBMPlexMono-Light",
+              "italic": "IBMPlexMono-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "IBMPlexMono-Regular",
+              "italic": "IBMPlexMono-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "IBMPlexMono-SemiBold",
+              "italic": "IBMPlexMono-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "IBMPlexMono-Bold",
+              "italic": "IBMPlexMono-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "IBMPlexMono-Black",
+              "italic": "IBMPlexMono-BlackItalic",
+              "numeric": 700
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        }
+      }
+    },
+    "aplica_joy": {
+      "fontFamilies": {
+        "main": {
+          "family": "Noto Sans",
+          "assetDir": "fonts/Noto_Sans",
+          "weights": {
+            "light": {
+              "normal": "NotoSans-Light",
+              "italic": "NotoSans-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "NotoSans-Regular",
+              "italic": "NotoSans-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "NotoSans-SemiBold",
+              "italic": "NotoSans-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "NotoSans-Bold",
+              "italic": "NotoSans-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "NotoSans-Black",
+              "italic": "NotoSans-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "content": {
+          "family": "Noto Sans",
+          "assetDir": "fonts/Noto_Sans",
+          "weights": {
+            "light": {
+              "normal": "NotoSans-Light",
+              "italic": "NotoSans-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "NotoSans-Regular",
+              "italic": "NotoSans-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "NotoSans-SemiBold",
+              "italic": "NotoSans-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "NotoSans-Bold",
+              "italic": "NotoSans-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "NotoSans-Black",
+              "italic": "NotoSans-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "display": {
+          "family": "Poppins",
+          "assetDir": "fonts/Poppins",
+          "weights": {
+            "light": {
+              "normal": "Poppins-Light",
+              "italic": "Poppins-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "Poppins-Regular",
+              "italic": "Poppins-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Poppins-SemiBold",
+              "italic": "Poppins-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "Poppins-Bold",
+              "italic": "Poppins-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "Poppins-Black",
+              "italic": "Poppins-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "code": {
+          "family": "IBM Plex Mono",
+          "assetDir": "fonts/IBM_Plex_Mono",
+          "weights": {
+            "light": {
+              "normal": "IBMPlexMono-Light",
+              "italic": "IBMPlexMono-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "IBMPlexMono-Regular",
+              "italic": "IBMPlexMono-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "IBMPlexMono-SemiBold",
+              "italic": "IBMPlexMono-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "IBMPlexMono-Bold",
+              "italic": "IBMPlexMono-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "IBMPlexMono-Black",
+              "italic": "IBMPlexMono-BlackItalic",
+              "numeric": 700
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        }
+      }
+    },
+    "aplica_tangerine": {
+      "fontFamilies": {
+        "main": {
+          "family": "Roboto",
+          "assetDir": "fonts/Roboto",
+          "weights": {
+            "light": {
+              "normal": "Roboto-Light",
+              "italic": "Roboto-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "Roboto-Regular",
+              "italic": "Roboto-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Roboto-SemiBold",
+              "italic": "Roboto-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "Roboto-Bold",
+              "italic": "Roboto-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "Roboto-Black",
+              "italic": "Roboto-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "content": {
+          "family": "Roboto",
+          "assetDir": "fonts/Roboto",
+          "weights": {
+            "light": {
+              "normal": "Roboto-Light",
+              "italic": "Roboto-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "Roboto-Regular",
+              "italic": "Roboto-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Roboto-SemiBold",
+              "italic": "Roboto-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "Roboto-Bold",
+              "italic": "Roboto-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "Roboto-Black",
+              "italic": "Roboto-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "display": {
+          "family": "Sansita",
+          "assetDir": "fonts/Sansita",
+          "weights": {
+            "light": {
+              "normal": "Sansita-Regular",
+              "italic": "Sansita-RegularItalic",
+              "numeric": 400
+            },
+            "regular": {
+              "normal": "Sansita-Regular",
+              "italic": "Sansita-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Sansita-Bold",
+              "italic": "Sansita-BoldItalic",
+              "numeric": 700
+            },
+            "bold": {
+              "normal": "Sansita-ExtraBold",
+              "italic": "Sansita-ExtraBoldItalic",
+              "numeric": 800
+            },
+            "black": {
+              "normal": "Sansita-Black",
+              "italic": "Sansita-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "code": {
+          "family": "IBM Plex Mono",
+          "assetDir": "fonts/IBM_Plex_Mono",
+          "weights": {
+            "light": {
+              "normal": "IBMPlexMono-Light",
+              "italic": "IBMPlexMono-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "IBMPlexMono-Regular",
+              "italic": "IBMPlexMono-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "IBMPlexMono-SemiBold",
+              "italic": "IBMPlexMono-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "IBMPlexMono-Bold",
+              "italic": "IBMPlexMono-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "IBMPlexMono-Black",
+              "italic": "IBMPlexMono-BlackItalic",
+              "numeric": 700
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        }
+      }
+    },
+    "aplica_grinch": {
+      "fontFamilies": {
+        "main": {
+          "family": "Roboto",
+          "assetDir": "fonts/Roboto",
+          "weights": {
+            "light": {
+              "normal": "Roboto-Light",
+              "italic": "Roboto-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "Roboto-Regular",
+              "italic": "Roboto-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Roboto-SemiBold",
+              "italic": "Roboto-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "Roboto-Bold",
+              "italic": "Roboto-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "Roboto-Black",
+              "italic": "Roboto-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "content": {
+          "family": "Roboto",
+          "assetDir": "fonts/Roboto",
+          "weights": {
+            "light": {
+              "normal": "Roboto-Light",
+              "italic": "Roboto-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "Roboto-Regular",
+              "italic": "Roboto-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Roboto-SemiBold",
+              "italic": "Roboto-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "Roboto-Bold",
+              "italic": "Roboto-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "Roboto-Black",
+              "italic": "Roboto-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "display": {
+          "family": "Sansita",
+          "assetDir": "fonts/Sansita",
+          "weights": {
+            "light": {
+              "normal": "Sansita-Regular",
+              "italic": "Sansita-RegularItalic",
+              "numeric": 400
+            },
+            "regular": {
+              "normal": "Sansita-Regular",
+              "italic": "Sansita-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "Sansita-Bold",
+              "italic": "Sansita-BoldItalic",
+              "numeric": 700
+            },
+            "bold": {
+              "normal": "Sansita-ExtraBold",
+              "italic": "Sansita-ExtraBoldItalic",
+              "numeric": 800
+            },
+            "black": {
+              "normal": "Sansita-Black",
+              "italic": "Sansita-BlackItalic",
+              "numeric": 900
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        },
+        "code": {
+          "family": "IBM Plex Mono",
+          "assetDir": "fonts/IBM_Plex_Mono",
+          "weights": {
+            "light": {
+              "normal": "IBMPlexMono-Light",
+              "italic": "IBMPlexMono-LightItalic",
+              "numeric": 300
+            },
+            "regular": {
+              "normal": "IBMPlexMono-Regular",
+              "italic": "IBMPlexMono-RegularItalic",
+              "numeric": 400
+            },
+            "semibold": {
+              "normal": "IBMPlexMono-SemiBold",
+              "italic": "IBMPlexMono-SemiBoldItalic",
+              "numeric": 600
+            },
+            "bold": {
+              "normal": "IBMPlexMono-Bold",
+              "italic": "IBMPlexMono-BoldItalic",
+              "numeric": 700
+            },
+            "black": {
+              "normal": "IBMPlexMono-Black",
+              "italic": "IBMPlexMono-BlackItalic",
+              "numeric": 700
+            }
+          },
+          "formats": [
+            "ttf"
+          ]
+        }
+      }
+    }
+  },
+  "sharedFamilies": [
+    "IBM Plex Mono",
+    "Noto Sans",
+    "Poppins",
+    "Roboto",
+    "Sansita"
+  ],
+  "availableFormats": [
+    "ttf"
+  ]
+}

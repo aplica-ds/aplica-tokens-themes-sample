@@ -3,7 +3,7 @@
   "$generator": "dynamic-themes/scripts/generate-all-themes.mjs",
   "$config": "config/aplica-blue-sky.config.mjs",
   "$documentation": "dynamic-themes/README.md",
-  "$generatedAt": "2026-04-17T21:32:43.501Z",
+  "$generatedAt": "2026-04-22T13:47:24.509Z",
   "$warning": "All files are auto-generated. Changes will be lost on next generation. Edit the config file instead.",
   "$files": [
     {
@@ -44,6 +44,6 @@
   "$accessibility": {
     "level": "AA",
     "bypass": false,
-    "validatedAt": "2026-04-17T21:32:43.491Z"
+    "validatedAt": "2026-04-22T13:47:24.503Z"
   }
 }

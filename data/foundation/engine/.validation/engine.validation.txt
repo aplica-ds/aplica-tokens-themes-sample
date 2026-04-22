@@ -2,9 +2,9 @@
   FOUNDATION VALIDATION REPORT
 ======================================================================
 
-Foundation: /Users/fernandobellentani/workspace/bellentani/aplica-tokens-themes-sample/data/foundation/engine/default.json
-Semantic:   /Users/fernandobellentani/workspace/bellentani/aplica-tokens-themes-sample/data/semantic/default.json
-Timestamp:  2026-04-17T21:32:47.058Z
+Foundation: /Users/fernandobellentani/workspace/bellentani/aplica-tokens-theme-engine/temp/outputs/legacy-migration/aplica-themes/converted-consumer/data/foundation/engine/default.json
+Semantic:   /Users/fernandobellentani/workspace/bellentani/aplica-tokens-theme-engine/temp/outputs/legacy-migration/aplica-themes/converted-consumer/data/semantic/default.json
+Timestamp:  2026-04-22T13:47:24.852Z
 
 ----------------------------------------------------------------------
   SUMMARY

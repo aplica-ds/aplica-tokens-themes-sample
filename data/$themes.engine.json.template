@@ -1,0 +1,199 @@
+[
+  {
+    "id": "3524d6bda6c7abb60a854fc12fcab7d98676e521",
+    "name": "default",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "foundation/engine/default": "enabled",
+      "foundation/engine/styles/typography_styles": "enabled",
+      "foundation/engine/styles/elevation_styles": "enabled"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "foundation"
+  },
+  {
+    "id": "0758915f9eafb57f998ac23bb224e15dac983ade",
+    "name": "default",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "semantic/default": "enabled",
+      "surface/positive": "source",
+      "dimension/normal": "source"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "semantic"
+  },
+  {
+    "id": "098b137d0f504d00c0a914c84b68b92cc695f79b",
+    "name": "positive",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "surface/positive": "enabled",
+      "mode/light": "source"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "surface"
+  },
+  {
+    "id": "913d33f005348a83f2ff7ad97550382f0c6028f6",
+    "name": "negative",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "surface/negative": "enabled",
+      "mode/light": "source"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "surface"
+  },
+  {
+    "id": "017b1bcd839be39be6a063aa10bc120529a9a437",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "mode/light": "enabled"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "mode"
+  },
+  {
+    "id": "5dabddb051a13b6e216f2281a1412cf27cb20fc5",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "mode/dark": "enabled"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "mode"
+  },
+  {
+    "id": "8987291f46e2136b1056dd59610d0415461b22a1",
+    "name": "minor",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "dimension/minor": "enabled"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "dimension"
+  },
+  {
+    "id": "71fbb28a3b5cd9b2aa39bdf8147a18d5343d2362",
+    "name": "normal",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "dimension/normal": "enabled"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "dimension"
+  },
+  {
+    "id": "ac89f884d0699180c9d02b65818c639fb6e6e891",
+    "name": "major",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "dimension/major": "enabled"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "dimension"
+  },
+  {
+    "id": "f30b457569d182d43c2ff580cf41d284e952b8ae",
+    "name": "aplica_blue_sky",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "brand/aplica_blue_sky/_primitive_theme": "enabled",
+      "brand/aplica_blue_sky/_grayscale": "enabled",
+      "brand/aplica_blue_sky/_brand": "enabled",
+      "brand/aplica_blue_sky/_typography": "enabled",
+      "brand/aplica_blue_sky/_borders": "enabled",
+      "brand/aplica_blue_sky/_gradients": "enabled",
+      "dimension/normal": "source"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "brand"
+  },
+  {
+    "id": "5a01abaaeb682d9cb0ad972c538b6c185e2f2426",
+    "name": "aplica_joy",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "brand/aplica_joy/_primitive_theme": "enabled",
+      "brand/aplica_joy/_grayscale": "enabled",
+      "brand/aplica_joy/_brand": "enabled",
+      "brand/aplica_joy/_typography": "enabled",
+      "brand/aplica_joy/_borders": "enabled",
+      "brand/aplica_joy/_gradients": "enabled",
+      "dimension/normal": "source"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "brand"
+  },
+  {
+    "id": "1614b9b4599c3cc35924482af6e271685a60a509",
+    "name": "aplica_tangerine",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "brand/aplica_tangerine/_grayscale": "enabled",
+      "brand/aplica_tangerine/_brand": "enabled",
+      "brand/aplica_tangerine/_typography": "enabled",
+      "brand/aplica_tangerine/_borders": "enabled",
+      "brand/aplica_tangerine/_gradients": "enabled",
+      "dimension/normal": "source"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "brand"
+  },
+  {
+    "id": "270581f0046ed7e1f100ace36726e08760832e65",
+    "name": "aplica_grinch",
+    "$figmaStyleReferences": {},
+    "figmaVariableReferences": {},
+    "selectedTokenSets": {
+      "brand/aplica_grinch/_grayscale": "enabled",
+      "brand/aplica_grinch/_brand": "enabled",
+      "brand/aplica_grinch/_typography": "enabled",
+      "brand/aplica_grinch/_borders": "enabled",
+      "brand/aplica_grinch/_gradients": "enabled",
+      "dimension/normal": "source"
+    },
+    "$figmaCollectionId": "",
+    "$figmaModeId": "",
+    "$figmaVariableReferences": {},
+    "group": "brand"
+  }
+]

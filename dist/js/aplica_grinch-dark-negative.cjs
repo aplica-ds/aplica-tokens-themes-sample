@@ -11,81 +11,96 @@ module.exports = {
             "lowest": {
               "background": "#b7f9b5",
               "txtOn": "#004a00",
-              "border": "#ccffca"
+              "border": "#ccffca",
+              "txt": "#c2ffbf"
             },
             "low": {
               "background": "#83d682",
               "txtOn": "#003500",
-              "border": "#96ea94"
+              "border": "#96ea94",
+              "txt": "#8ce08b"
             },
             "default": {
               "background": "#58bd59",
               "txtOn": "#002200",
-              "border": "#7acd78"
+              "border": "#7acd78",
+              "txt": "#70c36f"
             },
             "high": {
               "background": "#005f06",
               "txtOn": "#ccffca",
-              "border": "#388b3a"
+              "border": "#388b3a",
+              "txt": "#58bd59"
             },
             "highest": {
               "background": "#000f00",
               "txtOn": "#58bd59",
-              "border": "#003500"
+              "border": "#003500",
+              "txt": "#58bd59"
             }
           },
           "second": {
             "lowest": {
               "background": "#ffa7a0",
               "txtOn": "#5a0000",
-              "border": "#ffd2ca"
+              "border": "#ffd2ca",
+              "txt": "#ffc3bb"
             },
             "low": {
               "background": "#ff716d",
               "txtOn": "#120000",
-              "border": "#ff8c86"
+              "border": "#ff8c86",
+              "txt": "#ff7f7a"
             },
             "default": {
               "background": "#ea323c",
-              "txtOn": "#000000",
-              "border": "#fa6461"
+              "txtOn": "#ffffff",
+              "border": "#fa6461",
+              "txt": "#fa6461"
             },
             "high": {
               "background": "#850000",
               "txtOn": "#ffd2ca",
-              "border": "#b11625"
+              "border": "#b11625",
+              "txt": "#fa6461"
             },
             "highest": {
               "background": "#2f0000",
               "txtOn": "#ff7f7a",
-              "border": "#5a0000"
+              "border": "#5a0000",
+              "txt": "#fa6461"
             }
           },
           "third": {
             "lowest": {
               "background": "#ffdf9d",
               "txtOn": "#6f2f00",
-              "border": "#ffecac"
+              "border": "#ffecac",
+              "txt": "#ffe5a5"
             },
             "low": {
               "background": "#ffc068",
               "txtOn": "#561600",
-              "border": "#ffcd75"
+              "border": "#ffcd75",
+              "txt": "#ffc66e"
             },
             "default": {
               "background": "#ffa833",
               "txtOn": "#561600",
-              "border": "#ffb961"
+              "border": "#ffb961",
+              "txt": "#fdb35a"
             },
             "high": {
               "background": "#894700",
               "txtOn": "#ffffff",
-              "border": "#be780d"
+              "border": "#be780d",
+              "txt": "#da9236"
             },
             "highest": {
               "background": "#240000",
               "txtOn": "#da9236",
-              "border": "#561600"
+              "border": "#561600",
+              "txt": "#da9236"
             }
           }
         },
@@ -95,24 +110,28 @@ module.exports = {
               "positive": {
                 "background": "#f4faf4",
                 "txtOn": "#000000",
-                "border": "#f4faf4"
+                "border": "#f4faf4",
+                "txt": "#f4faf4"
               },
               "negative": {
                 "background": "#000100",
                 "txtOn": "#ffffff",
-                "border": "#000100"
+                "border": "#000100",
+                "txt": "#000100"
               }
             },
             "deep": {
               "positive": {
                 "background": "#ffffff",
                 "txtOn": "#000000",
-                "border": "#dde4dd"
+                "border": "#dde4dd",
+                "txt": "#f4faf4"
               },
               "negative": {
                 "background": "#000000",
                 "txtOn": "#ffffff",
-                "border": "#030703"
+                "border": "#030703",
+                "txt": "#000100"
               }
             }
           },
@@ -120,74 +139,88 @@ module.exports = {
             "lowest": {
               "background": "#f4faf4",
               "txtOn": "#000000",
-              "border": "#f4faf4"
+              "border": "#f4faf4",
+              "txt": "#f4faf4"
             },
             "lower": {
               "background": "#dde4dd",
               "txtOn": "#000000",
-              "border": "#f4faf4"
+              "border": "#f4faf4",
+              "txt": "#f4faf4"
             },
             "low": {
               "background": "#9ba29a",
               "txtOn": "#000000",
-              "border": "#b0b8b0"
+              "border": "#b0b8b0",
+              "txt": "#b0b8b0"
             },
             "mid": {
               "background": "#5e655e",
               "txtOn": "#ffffff",
-              "border": "#727971"
+              "border": "#727971",
+              "txt": "#9ba29a"
             },
             "high": {
               "background": "#272e27",
               "txtOn": "#ffffff",
-              "border": "#727971"
+              "border": "#727971",
+              "txt": "#9ba29a"
             },
             "higher": {
               "background": "#080d08",
               "txtOn": "#ffffff",
-              "border": "#171d17"
+              "border": "#171d17",
+              "txt": "#9ba29a"
             },
             "highest": {
               "background": "#010201",
               "txtOn": "#ffffff",
-              "border": "#080d08"
+              "border": "#080d08",
+              "txt": "#9ba29a"
             }
           },
           "grayscale": {
             "lowest": {
               "background": "#f7f7f7",
               "txtOn": "#111111",
-              "border": "#f7f7f7"
+              "border": "#f7f7f7",
+              "txt": "#f7f7f7"
             },
             "lower": {
               "background": "#eeeeee",
               "txtOn": "#111111",
-              "border": "#f7f7f7"
+              "border": "#f7f7f7",
+              "txt": "#f7f7f7"
             },
             "low": {
               "background": "#bbbbbb",
               "txtOn": "#111111",
-              "border": "#cccccc"
+              "border": "#cccccc",
+              "txt": "#cccccc"
             },
             "mid": {
               "background": "#888888",
               "txtOn": "#111111",
-              "border": "#999999"
+              "border": "#999999",
+              "txt": "#999999"
             },
             "high": {
               "background": "#555555",
               "txtOn": "#f7f7f7",
-              "border": "#666666"
+              "border": "#666666",
+              "txt": "#999999"
             },
             "higher": {
               "background": "#333333",
               "txtOn": "#f7f7f7",
-              "border": "#444444"
+              "border": "#444444",
+              "txt": "#999999"
             },
             "highest": {
               "background": "#222222",
               "txtOn": "#f7f7f7",
-              "border": "#333333"
+              "border": "#333333",
+              "txt": "#999999"
             }
           }
         }
@@ -197,74 +230,87 @@ module.exports = {
           "primary": {
             "normal": {
               "background": "#418b43",
-              "txtOn": "#000000",
-              "border": "#1a6821"
+              "txtOn": "#ffffff",
+              "border": "#1a6821",
+              "txt": "#67a467"
             },
             "action": {
               "background": "#003600",
               "txtOn": "#91d090",
-              "border": "#6bb66b"
+              "border": "#6bb66b",
+              "txt": "#67a467"
             },
             "active": {
               "background": "#83c182",
               "txtOn": "#002600",
-              "border": "#002800"
+              "border": "#002800",
+              "txt": "#91d090"
             },
             "focus": {
               "background": "#67a467",
               "txtOn": "#000100",
-              "border": "#004700"
+              "border": "#004700",
+              "txt": "#75b374"
             }
           },
           "secondary": {
             "normal": {
               "background": "#ad3e25",
               "txtOn": "#ffffff",
-              "border": "#8a1b00"
+              "border": "#8a1b00",
+              "txt": "#ea866e"
             },
             "action": {
               "background": "#510000",
               "txtOn": "#fc967e",
-              "border": "#e26e54"
+              "border": "#e26e54",
+              "txt": "#ea866e"
             },
             "active": {
               "background": "#ea866e",
               "txtOn": "#300000",
-              "border": "#460000"
+              "border": "#460000",
+              "txt": "#fc967e"
             },
             "focus": {
               "background": "#c76650",
-              "txtOn": "#000000",
-              "border": "#680000"
+              "txtOn": "#ffffff",
+              "border": "#680000",
+              "txt": "#ea866e"
             }
           },
           "link": {
             "normal": {
               "background": "#c09e72",
               "txtOn": "#261000",
-              "border": "#917146"
+              "border": "#917146",
+              "txt": "#c5a883"
             },
             "action": {
               "background": "#4d3411",
               "txtOn": "#ebcda7",
-              "border": "#dcb98c"
+              "border": "#dcb98c",
+              "txt": "#c09e72"
             },
             "active": {
               "background": "#e2c49e",
               "txtOn": "#392200",
-              "border": "#3c2000"
+              "border": "#3c2000",
+              "txt": "#ebcda7"
             },
             "focus": {
               "background": "#cfb18c",
               "txtOn": "#392200",
-              "border": "#65471c"
+              "border": "#65471c",
+              "txt": "#d8ba95"
             }
           },
           "disabled": {
             "normal": {
               "background": "#dddddd",
               "txtOn": "#777777",
-              "border": "#eeeeee"
+              "border": "#eeeeee",
+              "txt": "#f7f7f7"
             }
           }
         },
@@ -274,44 +320,52 @@ module.exports = {
               "normal": {
                 "background": "#a5e7d9",
                 "txtOn": "#013e36",
-                "border": "#6bab9f"
+                "border": "#6bab9f",
+                "txt": "#b1e8dc"
               },
               "action": {
                 "background": "#22574e",
                 "txtOn": "#cdf8ee",
-                "border": "#bbefe4"
+                "border": "#bbefe4",
+                "txt": "#74a99e"
               },
               "active": {
                 "background": "#c6f1e7",
                 "txtOn": "#013e36",
-                "border": "#004036"
+                "border": "#004036",
+                "txt": "#caf4eb"
               },
               "focus": {
                 "background": "#beeae0",
                 "txtOn": "#013e36",
-                "border": "#327368"
+                "border": "#327368",
+                "txt": "#c2ede3"
               }
             },
             "secondary": {
               "normal": {
                 "background": "#46ceb1",
                 "txtOn": "#002516",
-                "border": "#009b80"
+                "border": "#009b80",
+                "txt": "#68d2b9"
               },
               "action": {
                 "background": "#00513d",
                 "txtOn": "#a4f4df",
-                "border": "#61e5c7"
+                "border": "#61e5c7",
+                "txt": "#44b199"
               },
               "active": {
                 "background": "#80e9cf",
                 "txtOn": "#003a29",
-                "border": "#003c29"
+                "border": "#003c29",
+                "txt": "#88f1d7"
               },
               "focus": {
                 "background": "#70dac0",
                 "txtOn": "#003a29",
-                "border": "#006a52"
+                "border": "#006a52",
+                "txt": "#78e1c8"
               }
             }
           },
@@ -320,44 +374,52 @@ module.exports = {
               "normal": {
                 "background": "#e7a6c5",
                 "txtOn": "#471c33",
-                "border": "#b07391"
+                "border": "#b07391",
+                "txt": "#e8b0ca"
               },
               "action": {
                 "background": "#5f3149",
                 "txtOn": "#ffcae5",
-                "border": "#fcb9d9"
+                "border": "#fcb9d9",
+                "txt": "#c690aa"
               },
               "active": {
                 "background": "#fdc4de",
                 "txtOn": "#471c33",
-                "border": "#4b1734"
+                "border": "#4b1734",
+                "txt": "#ffcae5"
               },
               "focus": {
                 "background": "#efb7d1",
                 "txtOn": "#471c33",
-                "border": "#7c4461"
+                "border": "#7c4461",
+                "txt": "#f6bdd8"
               }
             },
             "secondary": {
               "normal": {
                 "background": "#ce4685",
-                "txtOn": "#000000",
-                "border": "#a41861"
+                "txtOn": "#ffffff",
+                "border": "#a41861",
+                "txt": "#f07aab"
               },
               "action": {
                 "background": "#5e0030",
                 "txtOn": "#ffa2d3",
-                "border": "#fb6fac"
+                "border": "#fb6fac",
+                "txt": "#f07aab"
               },
               "active": {
                 "background": "#ff87b8",
                 "txtOn": "#4b0021",
-                "border": "#510021"
+                "border": "#510021",
+                "txt": "#ff95c6"
               },
               "focus": {
                 "background": "#e16d9e",
-                "txtOn": "#000000",
-                "border": "#7a0040"
+                "txtOn": "#ffffff",
+                "border": "#7a0040",
+                "txt": "#f07aab"
               }
             }
           },
@@ -366,44 +428,52 @@ module.exports = {
               "normal": {
                 "background": "#e7cda6",
                 "txtOn": "#412f12",
-                "border": "#ad946f"
+                "border": "#ad946f",
+                "txt": "#e8d2b1"
               },
               "action": {
                 "background": "#5a472a",
                 "txtOn": "#f6e4ca",
-                "border": "#f0dbbc"
+                "border": "#f0dbbc",
+                "txt": "#aa9576"
               },
               "active": {
                 "background": "#f2e0c5",
                 "txtOn": "#412f12",
-                "border": "#432f09"
+                "border": "#432f09",
+                "txt": "#f6e4ca"
               },
               "focus": {
                 "background": "#edd6b5",
                 "txtOn": "#412f12",
-                "border": "#765f3b"
+                "border": "#765f3b",
+                "txt": "#eddbc1"
               }
             },
             "secondary": {
               "normal": {
                 "background": "#e59b2e",
                 "txtOn": "#360000",
-                "border": "#b26b00"
+                "border": "#b26b00",
+                "txt": "#e6a754"
               },
               "action": {
                 "background": "#632c00",
                 "txtOn": "#ffc876",
-                "border": "#ffb44d"
+                "border": "#ffb44d",
+                "txt": "#e59b2e"
               },
               "active": {
                 "background": "#ffc06e",
                 "txtOn": "#4c1600",
-                "border": "#510e00"
+                "border": "#510e00",
+                "txt": "#ffc876"
               },
               "focus": {
                 "background": "#efaf5d",
                 "txtOn": "#4c1600",
-                "border": "#813d00"
+                "border": "#813d00",
+                "txt": "#f7b765"
               }
             }
           },
@@ -412,44 +482,52 @@ module.exports = {
               "normal": {
                 "background": "#021802",
                 "txtOn": "#92ab90",
-                "border": "#001100"
+                "border": "#001100",
+                "txt": "#92ab90"
               },
               "action": {
                 "background": "#000700",
                 "txtOn": "#92ab90",
-                "border": "#435d41"
+                "border": "#435d41",
+                "txt": "#92ab90"
               },
               "active": {
                 "background": "#5e755c",
                 "txtOn": "#ffffff",
-                "border": "#000500"
+                "border": "#000500",
+                "txt": "#92ab90"
               },
               "focus": {
                 "background": "#2e442d",
                 "txtOn": "#cae4c8",
-                "border": "#000b00"
+                "border": "#000b00",
+                "txt": "#92ab90"
               }
             },
             "secondary": {
               "normal": {
                 "background": "#e5ebe5",
                 "txtOn": "#363a36",
-                "border": "#a6aca6"
+                "border": "#a6aca6",
+                "txt": "#e8ece8"
               },
               "action": {
                 "background": "#505550",
                 "txtOn": "#f4f8f4",
-                "border": "#ebf0eb"
+                "border": "#ebf0eb",
+                "txt": "#a7aba7"
               },
               "active": {
                 "background": "#edf1ed",
                 "txtOn": "#363a36",
-                "border": "#363b36"
+                "border": "#363b36",
+                "txt": "#eff3ef"
               },
               "focus": {
                 "background": "#eaeeea",
                 "txtOn": "#363a36",
-                "border": "#6b716b"
+                "border": "#6b716b",
+                "txt": "#ebefeb"
               }
             }
           }
@@ -482,54 +560,64 @@ module.exports = {
             "lowest": {
               "background": "#effbe0",
               "txtOn": "#333f22",
-              "border": "#f1fee3"
+              "border": "#f1fee3",
+              "txt": "#f0fde1"
             },
             "low": {
               "background": "#eaf7db",
               "txtOn": "#333f22",
-              "border": "#edf9de"
+              "border": "#edf9de",
+              "txt": "#ebf8dd"
             },
             "default": {
               "background": "#e3f6cc",
               "txtOn": "#333f22",
-              "border": "#e9f6da"
+              "border": "#e9f6da",
+              "txt": "#e8f4d9"
             },
             "high": {
               "background": "#697758",
               "txtOn": "#ffffff",
-              "border": "#a5b492"
+              "border": "#a5b492",
+              "txt": "#a5b492"
             },
             "highest": {
               "background": "#060e00",
               "txtOn": "#a5b492",
-              "border": "#333f22"
+              "border": "#333f22",
+              "txt": "#a5b492"
             }
           },
           "secondary": {
             "lowest": {
               "background": "#dafcb5",
               "txtOn": "#325500",
-              "border": "#e4ffc0"
+              "border": "#e4ffc0",
+              "txt": "#dfffbb"
             },
             "low": {
               "background": "#c1ec90",
               "txtOn": "#1b3c00",
-              "border": "#d0f3ab"
+              "border": "#d0f3ab",
+              "txt": "#cbeea5"
             },
             "default": {
               "background": "#aee071",
               "txtOn": "#1b3c00",
-              "border": "#bce78b"
+              "border": "#bce78b",
+              "txt": "#b7e286"
             },
             "high": {
               "background": "#4a6e07",
               "txtOn": "#ffffff",
-              "border": "#7ca44a"
+              "border": "#7ca44a",
+              "txt": "#7ca44a"
             },
             "highest": {
               "background": "#000f00",
               "txtOn": "#97c166",
-              "border": "#1b3c00"
+              "border": "#1b3c00",
+              "txt": "#7ca44a"
             }
           }
         },
@@ -538,54 +626,64 @@ module.exports = {
             "lowest": {
               "background": "#fff3e6",
               "txtOn": "#44372a",
-              "border": "#fff6e9"
+              "border": "#fff6e9",
+              "txt": "#fff4e8"
             },
             "low": {
               "background": "#fbede0",
               "txtOn": "#44372a",
-              "border": "#fef0e3"
+              "border": "#fef0e3",
+              "txt": "#fceee2"
             },
             "default": {
               "background": "#fce7d4",
               "txtOn": "#44372a",
-              "border": "#f9ebdf"
+              "border": "#f9ebdf",
+              "txt": "#f8eadd"
             },
             "high": {
               "background": "#7c6d5f",
               "txtOn": "#ffffff",
-              "border": "#b9a899"
+              "border": "#b9a899",
+              "txt": "#b9a899"
             },
             "highest": {
               "background": "#130801",
               "txtOn": "#b9a899",
-              "border": "#44372a"
+              "border": "#44372a",
+              "txt": "#b9a899"
             }
           },
           "secondary": {
             "lowest": {
               "background": "#ffe0bd",
               "txtOn": "#5d3402",
-              "border": "#fff0cd"
+              "border": "#fff0cd",
+              "txt": "#ffe8c5"
             },
             "low": {
               "background": "#f1bf92",
               "txtOn": "#471f00",
-              "border": "#ffcea1"
+              "border": "#ffcea1",
+              "txt": "#f9c699"
             },
             "default": {
               "background": "#e0a671",
               "txtOn": "#300a00",
-              "border": "#e9b78b"
+              "border": "#e9b78b",
+              "txt": "#e2b083"
             },
             "high": {
               "background": "#754a1e",
               "txtOn": "#ffffff",
-              "border": "#a6784d"
+              "border": "#a6784d",
+              "txt": "#c09064"
             },
             "highest": {
               "background": "#1b0000",
               "txtOn": "#c09064",
-              "border": "#471f00"
+              "border": "#471f00",
+              "txt": "#c09064"
             }
           }
         },
@@ -594,54 +692,64 @@ module.exports = {
             "lowest": {
               "background": "#f1f5f8",
               "txtOn": "#4f5356",
-              "border": "#f5f9fc"
+              "border": "#f5f9fc",
+              "txt": "#f3f7fa"
             },
             "low": {
               "background": "#e9edf0",
               "txtOn": "#35393c",
-              "border": "#edf1f4"
+              "border": "#edf1f4",
+              "txt": "#ebeff2"
             },
             "default": {
               "background": "#e2e8ec",
               "txtOn": "#35393c",
-              "border": "#e7ebee"
+              "border": "#e7ebee",
+              "txt": "#e6eaec"
             },
             "high": {
               "background": "#6a6f72",
               "txtOn": "#ffffff",
-              "border": "#a4a9ac"
+              "border": "#a4a9ac",
+              "txt": "#a4a9ac"
             },
             "highest": {
               "background": "#080b0d",
               "txtOn": "#a4a9ac",
-              "border": "#35393c"
+              "border": "#35393c",
+              "txt": "#a4a9ac"
             }
           },
           "secondary": {
             "lowest": {
               "background": "#c2ebff",
               "txtOn": "#083e63",
-              "border": "#d6feff"
+              "border": "#d6feff",
+              "txt": "#ccf5ff"
             },
             "low": {
               "background": "#94c7f4",
               "txtOn": "#002a4d",
-              "border": "#a6daff"
+              "border": "#a6daff",
+              "txt": "#9dd0fd"
             },
             "default": {
               "background": "#71ade0",
               "txtOn": "#001638",
-              "border": "#8cbeea"
+              "border": "#8cbeea",
+              "txt": "#83b5e1"
             },
             "high": {
               "background": "#225279",
               "txtOn": "#ccf5ff",
-              "border": "#4e7ea7"
+              "border": "#4e7ea7",
+              "txt": "#71ade0"
             },
             "highest": {
               "background": "#000424",
               "txtOn": "#71ade0",
-              "border": "#002a4d"
+              "border": "#002a4d",
+              "txt": "#71ade0"
             }
           }
         }
@@ -918,7 +1026,7 @@ module.exports = {
     },
     "dimension": {
       "sizing": {
-        "zero": "0",
+        "zero": "0px",
         "pico": "1px",
         "nano": "2px",
         "micro": "4px",
@@ -933,7 +1041,7 @@ module.exports = {
         "peta": "116px"
       },
       "spacing": {
-        "zero": "0",
+        "zero": "0px",
         "micro": "4px",
         "extraSmall": "8px",
         "small": "12px",
@@ -957,7 +1065,7 @@ module.exports = {
     },
     "border": {
       "width": {
-        "none": "0",
+        "none": "0px",
         "small": "1px",
         "medium": "2px",
         "large": "4px",

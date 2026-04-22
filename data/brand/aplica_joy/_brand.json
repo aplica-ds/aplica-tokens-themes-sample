@@ -17,6 +17,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_pink.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_pink.palette.txt.10}"
                 }
               },
               "low": {
@@ -31,6 +35,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_pink.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_pink.palette.txt.40}"
                 }
               },
               "default": {
@@ -45,6 +53,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_pink.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_pink.palette.txt.100}"
                 }
               },
               "high": {
@@ -59,6 +71,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_pink.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_pink.palette.txt.160}"
                 }
               },
               "highest": {
@@ -73,6 +89,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_pink.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_pink.palette.txt.190}"
                 }
               }
             },
@@ -89,6 +109,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_blue.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_blue.palette.txt.10}"
                 }
               },
               "low": {
@@ -103,6 +127,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_blue.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_blue.palette.txt.40}"
                 }
               },
               "default": {
@@ -117,6 +145,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_blue.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_blue.palette.txt.100}"
                 }
               },
               "high": {
@@ -131,6 +163,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_blue.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_blue.palette.txt.160}"
                 }
               },
               "highest": {
@@ -145,6 +181,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_blue.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_blue.palette.txt.190}"
                 }
               }
             },
@@ -161,6 +201,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_purple.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_purple.palette.txt.10}"
                 }
               },
               "low": {
@@ -175,6 +219,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_purple.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_purple.palette.txt.40}"
                 }
               },
               "default": {
@@ -189,6 +237,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_purple.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_purple.palette.txt.100}"
                 }
               },
               "high": {
@@ -203,6 +255,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_purple.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_purple.palette.txt.160}"
                 }
               },
               "highest": {
@@ -217,6 +273,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.joy_purple.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.joy_purple.palette.txt.190}"
                 }
               }
             }
@@ -236,6 +296,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.5}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.5}"
                   }
                 },
                 "negative": {
@@ -250,6 +314,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.140}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.140}"
                   }
                 }
               },
@@ -266,6 +334,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.surface.5}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.5}"
                   }
                 },
                 "negative": {
@@ -280,6 +352,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.surface.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.130}"
                   }
                 }
               }
@@ -298,6 +374,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.5}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.5}"
                   }
                 },
                 "negative": {
@@ -312,6 +392,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.140}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.140}"
                   }
                 }
               },
@@ -328,6 +412,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.10}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.10}"
                   }
                 },
                 "negative": {
@@ -342,6 +430,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.130}"
                   }
                 }
               },
@@ -358,6 +450,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.40}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.40}"
                   }
                 },
                 "negative": {
@@ -372,6 +468,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.100}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.100}"
                   }
                 }
               },
@@ -388,6 +488,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.70}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.70}"
                   }
                 },
                 "negative": {
@@ -402,6 +506,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.70}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.70}"
                   }
                 }
               },
@@ -418,6 +526,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.100}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.100}"
                   }
                 },
                 "negative": {
@@ -432,6 +544,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.40}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.40}"
                   }
                 }
               },
@@ -448,6 +564,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.120}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.120}"
                   }
                 },
                 "negative": {
@@ -462,6 +582,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.20}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.20}"
                   }
                 }
               },
@@ -478,6 +602,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.130}"
                   }
                 },
                 "negative": {
@@ -492,6 +620,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.joy_pink.neutrals.border.10}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.joy_pink.neutrals.txt.10}"
                   }
                 }
               }
@@ -510,6 +642,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.5}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.5}"
                   }
                 },
                 "negative": {
@@ -524,6 +660,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.140}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.140}"
                   }
                 }
               },
@@ -540,6 +680,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.10}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.10}"
                   }
                 },
                 "negative": {
@@ -554,6 +698,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.130}"
                   }
                 }
               },
@@ -570,6 +718,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.40}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.40}"
                   }
                 },
                 "negative": {
@@ -584,6 +736,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.100}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.100}"
                   }
                 }
               },
@@ -600,6 +756,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.70}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.70}"
                   }
                 },
                 "negative": {
@@ -614,6 +774,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.70}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.70}"
                   }
                 }
               },
@@ -630,6 +794,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.100}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.100}"
                   }
                 },
                 "negative": {
@@ -644,6 +812,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.40}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.40}"
                   }
                 }
               },
@@ -660,6 +832,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.120}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.120}"
                   }
                 },
                 "negative": {
@@ -674,6 +850,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.20}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.20}"
                   }
                 }
               },
@@ -690,6 +870,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.130}"
                   }
                 },
                 "negative": {
@@ -704,6 +888,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.grayscale.border.10}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.grayscale.txt.10}"
                   }
                 }
               }
@@ -767,6 +955,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.action_magenta.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_magenta.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_magenta.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_magenta.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_magenta.palette.txt.50}"
+                  }
                 }
               },
               "secondary": {
@@ -823,6 +1029,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.action_cyan.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_cyan.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_cyan.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_cyan.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_cyan.palette.txt.50}"
+                  }
                 }
               },
               "link": {
@@ -878,6 +1102,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.link_pink.palette.border.60}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.link_pink.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.link_pink.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.link_pink.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.link_pink.palette.txt.50}"
                   }
                 }
               }
@@ -937,6 +1179,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.info_blue.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue.palette.txt.50}"
+                  }
                 }
               },
               "info_secondary": {
@@ -992,6 +1252,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.info_blue_dark.palette.border.60}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue_dark.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue_dark.palette.txt.50}"
                   }
                 }
               },
@@ -1049,6 +1327,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.success_green.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green.palette.txt.50}"
+                  }
                 }
               },
               "success_secondary": {
@@ -1104,6 +1400,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.success_green_dark.palette.border.60}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green_dark.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green_dark.palette.txt.50}"
                   }
                 }
               },
@@ -1161,6 +1475,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.warning_orange.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange.palette.txt.50}"
+                  }
                 }
               },
               "warning_secondary": {
@@ -1216,6 +1548,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.warning_orange_dark.palette.border.60}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange_dark.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange_dark.palette.txt.50}"
                   }
                 }
               },
@@ -1273,6 +1623,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.danger_red.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red.palette.txt.50}"
+                  }
                 }
               },
               "danger_secondary": {
@@ -1329,6 +1697,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.danger_red_dark.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red_dark.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red_dark.palette.txt.50}"
+                  }
                 }
               }
             },
@@ -1344,6 +1730,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{_color_palette.mode.light.grayscale.surface.20}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{_color_palette.mode.light.grayscale.txt.20}"
               }
             }
           },
@@ -1403,6 +1793,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.action_magenta.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_magenta.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_magenta.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_magenta.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_magenta.palette.txt.120}"
+                  }
                 }
               },
               "secondary": {
@@ -1459,6 +1867,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.action_cyan.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_cyan.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_cyan.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_cyan.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.action_cyan.palette.txt.120}"
+                  }
                 }
               },
               "link": {
@@ -1514,6 +1940,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.link_pink.palette.border.130}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.link_pink.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.link_pink.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.link_pink.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.link_pink.palette.txt.120}"
                   }
                 }
               }
@@ -1573,6 +2017,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.info_blue.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue.palette.txt.120}"
+                  }
                 }
               },
               "info_secondary": {
@@ -1628,6 +2090,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.info_blue_dark.palette.border.130}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue_dark.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.info_blue_dark.palette.txt.120}"
                   }
                 }
               },
@@ -1685,6 +2165,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.success_green.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green.palette.txt.120}"
+                  }
                 }
               },
               "success_secondary": {
@@ -1740,6 +2238,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.success_green_dark.palette.border.130}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green_dark.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.success_green_dark.palette.txt.120}"
                   }
                 }
               },
@@ -1797,6 +2313,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.warning_orange.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange.palette.txt.120}"
+                  }
                 }
               },
               "warning_secondary": {
@@ -1852,6 +2386,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.border.130}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange_dark.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.warning_orange_dark.palette.txt.120}"
                   }
                 }
               },
@@ -1909,6 +2461,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.danger_red.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red.palette.txt.120}"
+                  }
                 }
               },
               "danger_secondary": {
@@ -1965,6 +2535,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.danger_red_dark.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red_dark.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.light.danger_red_dark.palette.txt.120}"
+                  }
                 }
               }
             },
@@ -1980,6 +2568,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{_color_palette.mode.light.grayscale.surface.130}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{_color_palette.mode.light.grayscale.txt.130}"
               }
             }
           }
@@ -1999,6 +2591,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.10}"
                 }
               },
               "low": {
@@ -2013,6 +2609,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.40}"
                 }
               },
               "default": {
@@ -2027,6 +2627,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.100}"
                 }
               },
               "high": {
@@ -2041,6 +2645,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.160}"
                 }
               },
               "highest": {
@@ -2055,6 +2663,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.190}"
                 }
               }
             },
@@ -2071,6 +2683,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.10}"
                 }
               },
               "low": {
@@ -2085,6 +2701,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.40}"
                 }
               },
               "default": {
@@ -2099,6 +2719,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -2113,6 +2737,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.160}"
                 }
               },
               "highest": {
@@ -2127,6 +2755,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.190}"
                 }
               }
             },
@@ -2143,6 +2775,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.10}"
                 }
               },
               "low": {
@@ -2157,6 +2793,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.40}"
                 }
               },
               "default": {
@@ -2171,6 +2811,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.100}"
                 }
               },
               "high": {
@@ -2185,6 +2829,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.160}"
                 }
               },
               "highest": {
@@ -2199,6 +2847,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.190}"
                 }
               }
             },
@@ -2215,6 +2867,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.10}"
                 }
               },
               "low": {
@@ -2229,6 +2885,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.40}"
                 }
               },
               "default": {
@@ -2243,6 +2903,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -2257,6 +2921,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.160}"
                 }
               },
               "highest": {
@@ -2271,6 +2939,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.190}"
                 }
               }
             },
@@ -2287,6 +2959,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.10}"
                 }
               },
               "low": {
@@ -2301,6 +2977,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.40}"
                 }
               },
               "default": {
@@ -2315,6 +2995,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.100}"
                 }
               },
               "high": {
@@ -2329,6 +3013,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.160}"
                 }
               },
               "highest": {
@@ -2343,6 +3031,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.190}"
                 }
               }
             },
@@ -2359,6 +3051,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.10}"
                 }
               },
               "low": {
@@ -2373,6 +3069,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.40}"
                 }
               },
               "default": {
@@ -2387,6 +3087,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -2401,6 +3105,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.160}"
                 }
               },
               "highest": {
@@ -2415,6 +3123,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.190}"
                 }
               }
             }
@@ -2433,6 +3145,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.190}"
                 }
               },
               "low": {
@@ -2447,6 +3163,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.160}"
                 }
               },
               "default": {
@@ -2461,6 +3181,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.100}"
                 }
               },
               "high": {
@@ -2475,6 +3199,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.40}"
                 }
               },
               "highest": {
@@ -2489,6 +3217,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green.palette.txt.10}"
                 }
               }
             },
@@ -2505,6 +3237,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.190}"
                 }
               },
               "low": {
@@ -2519,6 +3255,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.160}"
                 }
               },
               "default": {
@@ -2533,6 +3273,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -2547,6 +3291,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.40}"
                 }
               },
               "highest": {
@@ -2561,6 +3309,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.promo_green_dark.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.promo_green_dark.palette.txt.10}"
                 }
               }
             },
@@ -2577,6 +3329,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.190}"
                 }
               },
               "low": {
@@ -2591,6 +3347,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.160}"
                 }
               },
               "default": {
@@ -2605,6 +3365,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.100}"
                 }
               },
               "high": {
@@ -2619,6 +3383,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.40}"
                 }
               },
               "highest": {
@@ -2633,6 +3401,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink.palette.txt.10}"
                 }
               }
             },
@@ -2649,6 +3421,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.190}"
                 }
               },
               "low": {
@@ -2663,6 +3439,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.160}"
                 }
               },
               "default": {
@@ -2677,6 +3457,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -2691,6 +3475,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.40}"
                 }
               },
               "highest": {
@@ -2705,6 +3493,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.cashback_pink_dark.palette.txt.10}"
                 }
               }
             },
@@ -2721,6 +3513,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.190}"
                 }
               },
               "low": {
@@ -2735,6 +3531,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.160}"
                 }
               },
               "default": {
@@ -2749,6 +3549,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.100}"
                 }
               },
               "high": {
@@ -2763,6 +3567,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.40}"
                 }
               },
               "highest": {
@@ -2777,6 +3585,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple.palette.txt.10}"
                 }
               }
             },
@@ -2793,6 +3605,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.190}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.190}"
                 }
               },
               "low": {
@@ -2807,6 +3623,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.170}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.160}"
                 }
               },
               "default": {
@@ -2821,6 +3641,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -2835,6 +3659,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.50}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.40}"
                 }
               },
               "highest": {
@@ -2849,6 +3677,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.light.premium_purple_dark.palette.border.20}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.light.premium_purple_dark.palette.txt.10}"
                 }
               }
             }
@@ -3047,6 +3879,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_pink.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_pink.palette.txt.170}"
                 }
               },
               "low": {
@@ -3061,6 +3897,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_pink.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_pink.palette.txt.130}"
                 }
               },
               "default": {
@@ -3075,6 +3915,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_pink.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_pink.palette.txt.100}"
                 }
               },
               "high": {
@@ -3089,6 +3933,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_pink.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_pink.palette.txt.60}"
                 }
               },
               "highest": {
@@ -3103,6 +3951,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_pink.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_pink.palette.txt.20}"
                 }
               }
             },
@@ -3119,6 +3971,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_blue.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_blue.palette.txt.170}"
                 }
               },
               "low": {
@@ -3133,6 +3989,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_blue.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_blue.palette.txt.130}"
                 }
               },
               "default": {
@@ -3147,6 +4007,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_blue.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_blue.palette.txt.100}"
                 }
               },
               "high": {
@@ -3161,6 +4025,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_blue.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_blue.palette.txt.60}"
                 }
               },
               "highest": {
@@ -3175,6 +4043,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_blue.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_blue.palette.txt.20}"
                 }
               }
             },
@@ -3191,6 +4063,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_purple.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_purple.palette.txt.170}"
                 }
               },
               "low": {
@@ -3205,6 +4081,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_purple.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_purple.palette.txt.130}"
                 }
               },
               "default": {
@@ -3219,6 +4099,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_purple.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_purple.palette.txt.100}"
                 }
               },
               "high": {
@@ -3233,6 +4117,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_purple.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_purple.palette.txt.60}"
                 }
               },
               "highest": {
@@ -3247,6 +4135,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.joy_purple.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.joy_purple.palette.txt.20}"
                 }
               }
             }
@@ -3266,6 +4158,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.5}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.5}"
                   }
                 },
                 "negative": {
@@ -3280,6 +4176,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.140}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.140}"
                   }
                 }
               },
@@ -3296,6 +4196,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.surface.10}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.10}"
                   }
                 },
                 "negative": {
@@ -3310,6 +4214,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.surface.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.130}"
                   }
                 }
               }
@@ -3328,6 +4236,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.5}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.5}"
                   }
                 },
                 "negative": {
@@ -3342,6 +4254,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.140}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.140}"
                   }
                 }
               },
@@ -3358,6 +4274,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.10}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.10}"
                   }
                 },
                 "negative": {
@@ -3372,6 +4292,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.130}"
                   }
                 }
               },
@@ -3388,6 +4312,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.40}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.40}"
                   }
                 },
                 "negative": {
@@ -3402,6 +4330,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.100}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.100}"
                   }
                 }
               },
@@ -3418,6 +4350,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.70}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.70}"
                   }
                 },
                 "negative": {
@@ -3432,6 +4368,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.70}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.70}"
                   }
                 }
               },
@@ -3448,6 +4388,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.100}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.100}"
                   }
                 },
                 "negative": {
@@ -3462,6 +4406,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.40}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.40}"
                   }
                 }
               },
@@ -3478,6 +4426,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.120}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.120}"
                   }
                 },
                 "negative": {
@@ -3492,6 +4444,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.20}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.20}"
                   }
                 }
               },
@@ -3508,6 +4464,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.130}"
                   }
                 },
                 "negative": {
@@ -3522,6 +4482,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.joy_pink.neutrals.border.10}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.joy_pink.neutrals.txt.10}"
                   }
                 }
               }
@@ -3540,6 +4504,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.5}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.5}"
                   }
                 },
                 "negative": {
@@ -3554,6 +4522,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.140}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.140}"
                   }
                 }
               },
@@ -3570,6 +4542,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.10}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.10}"
                   }
                 },
                 "negative": {
@@ -3584,6 +4560,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.130}"
                   }
                 }
               },
@@ -3600,6 +4580,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.40}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.40}"
                   }
                 },
                 "negative": {
@@ -3614,6 +4598,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.100}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.100}"
                   }
                 }
               },
@@ -3630,6 +4618,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.70}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.70}"
                   }
                 },
                 "negative": {
@@ -3644,6 +4636,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.70}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.70}"
                   }
                 }
               },
@@ -3660,6 +4656,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.100}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.100}"
                   }
                 },
                 "negative": {
@@ -3674,6 +4674,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.40}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.40}"
                   }
                 }
               },
@@ -3690,6 +4694,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.120}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.120}"
                   }
                 },
                 "negative": {
@@ -3704,6 +4712,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.20}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.20}"
                   }
                 }
               },
@@ -3720,6 +4732,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.130}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.130}"
                   }
                 },
                 "negative": {
@@ -3734,6 +4750,10 @@
                   "border": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.grayscale.border.10}"
+                  },
+                  "txt": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.grayscale.txt.10}"
                   }
                 }
               }
@@ -3797,6 +4817,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.action_magenta.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_magenta.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_magenta.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_magenta.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_magenta.palette.txt.50}"
+                  }
                 }
               },
               "secondary": {
@@ -3853,6 +4891,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.action_cyan.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_cyan.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_cyan.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_cyan.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_cyan.palette.txt.50}"
+                  }
                 }
               },
               "link": {
@@ -3908,6 +4964,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.link_pink.palette.border.60}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.link_pink.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.link_pink.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.link_pink.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.link_pink.palette.txt.50}"
                   }
                 }
               }
@@ -3967,6 +5041,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.info_blue.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue.palette.txt.50}"
+                  }
                 }
               },
               "info_secondary": {
@@ -4022,6 +5114,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.info_blue_dark.palette.border.60}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue_dark.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue_dark.palette.txt.50}"
                   }
                 }
               },
@@ -4079,6 +5189,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.success_green.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green.palette.txt.50}"
+                  }
                 }
               },
               "success_secondary": {
@@ -4134,6 +5262,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.success_green_dark.palette.border.60}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green_dark.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green_dark.palette.txt.50}"
                   }
                 }
               },
@@ -4191,6 +5337,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.warning_orange.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange.palette.txt.50}"
+                  }
                 }
               },
               "warning_secondary": {
@@ -4246,6 +5410,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.border.60}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.txt.50}"
                   }
                 }
               },
@@ -4303,6 +5485,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.danger_red.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red.palette.txt.50}"
+                  }
                 }
               },
               "danger_secondary": {
@@ -4359,6 +5559,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.dark.danger_red_dark.palette.border.60}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red_dark.palette.txt.120}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red_dark.palette.txt.50}"
+                  }
                 }
               }
             },
@@ -4374,6 +5592,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{_color_palette.mode.dark.grayscale.surface.20}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{_color_palette.mode.dark.grayscale.txt.20}"
               }
             }
           },
@@ -4433,6 +5655,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.action_magenta.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_magenta.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_magenta.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_magenta.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_magenta.palette.txt.120}"
+                  }
                 }
               },
               "secondary": {
@@ -4489,6 +5729,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.action_cyan.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_cyan.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_cyan.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_cyan.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.action_cyan.palette.txt.120}"
+                  }
                 }
               },
               "link": {
@@ -4544,6 +5802,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.link_pink.palette.border.130}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.link_pink.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.link_pink.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.link_pink.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.link_pink.palette.txt.120}"
                   }
                 }
               }
@@ -4603,6 +5879,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.info_blue.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue.palette.txt.120}"
+                  }
                 }
               },
               "info_secondary": {
@@ -4658,6 +5952,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.info_blue_dark.palette.border.130}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue_dark.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.info_blue_dark.palette.txt.120}"
                   }
                 }
               },
@@ -4715,6 +6027,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.success_green.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green.palette.txt.120}"
+                  }
                 }
               },
               "success_secondary": {
@@ -4770,6 +6100,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.success_green_dark.palette.border.130}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green_dark.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.success_green_dark.palette.txt.120}"
                   }
                 }
               },
@@ -4827,6 +6175,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.warning_orange.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange.palette.txt.120}"
+                  }
                 }
               },
               "warning_secondary": {
@@ -4882,6 +6248,24 @@
                   "focus": {
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.warning_orange_dark.palette.border.130}"
+                  }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.warning_orange_dark.palette.txt.120}"
                   }
                 }
               },
@@ -4939,6 +6323,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.danger_red.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red.palette.txt.120}"
+                  }
                 }
               },
               "danger_secondary": {
@@ -4995,6 +6397,24 @@
                     "$type": "color",
                     "$value": "{_color_palette.mode.light.danger_red_dark.palette.border.130}"
                   }
+                },
+                "txt": {
+                  "normal": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red_dark.palette.txt.100}"
+                  },
+                  "action": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red_dark.palette.txt.50}"
+                  },
+                  "active": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red_dark.palette.txt.140}"
+                  },
+                  "focus": {
+                    "$type": "color",
+                    "$value": "{_color_palette.mode.dark.danger_red_dark.palette.txt.120}"
+                  }
                 }
               }
             },
@@ -5010,6 +6430,10 @@
               "border": {
                 "$type": "color",
                 "$value": "{_color_palette.mode.dark.grayscale.surface.130}"
+              },
+              "txt": {
+                "$type": "color",
+                "$value": "{_color_palette.mode.dark.grayscale.txt.130}"
               }
             }
           }
@@ -5029,6 +6453,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.170}"
                 }
               },
               "low": {
@@ -5043,6 +6471,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.130}"
                 }
               },
               "default": {
@@ -5057,6 +6489,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.100}"
                 }
               },
               "high": {
@@ -5071,6 +6507,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.60}"
                 }
               },
               "highest": {
@@ -5085,6 +6525,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.20}"
                 }
               }
             },
@@ -5101,6 +6545,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.170}"
                 }
               },
               "low": {
@@ -5115,6 +6563,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.130}"
                 }
               },
               "default": {
@@ -5129,6 +6581,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -5143,6 +6599,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.60}"
                 }
               },
               "highest": {
@@ -5157,6 +6617,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.20}"
                 }
               }
             },
@@ -5173,6 +6637,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.170}"
                 }
               },
               "low": {
@@ -5187,6 +6655,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.130}"
                 }
               },
               "default": {
@@ -5201,6 +6673,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.100}"
                 }
               },
               "high": {
@@ -5215,6 +6691,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.60}"
                 }
               },
               "highest": {
@@ -5229,6 +6709,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.20}"
                 }
               }
             },
@@ -5245,6 +6729,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.170}"
                 }
               },
               "low": {
@@ -5259,6 +6747,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.130}"
                 }
               },
               "default": {
@@ -5273,6 +6765,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -5287,6 +6783,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.60}"
                 }
               },
               "highest": {
@@ -5301,6 +6801,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.20}"
                 }
               }
             },
@@ -5317,6 +6821,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.170}"
                 }
               },
               "low": {
@@ -5331,6 +6839,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.130}"
                 }
               },
               "default": {
@@ -5345,6 +6857,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.100}"
                 }
               },
               "high": {
@@ -5359,6 +6875,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.60}"
                 }
               },
               "highest": {
@@ -5373,6 +6893,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.20}"
                 }
               }
             },
@@ -5389,6 +6913,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.170}"
                 }
               },
               "low": {
@@ -5403,6 +6931,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.130}"
                 }
               },
               "default": {
@@ -5417,6 +6949,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -5431,6 +6967,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.60}"
                 }
               },
               "highest": {
@@ -5445,6 +6985,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.20}"
                 }
               }
             }
@@ -5463,6 +7007,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.20}"
                 }
               },
               "low": {
@@ -5477,6 +7025,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.60}"
                 }
               },
               "default": {
@@ -5491,6 +7043,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.100}"
                 }
               },
               "high": {
@@ -5505,6 +7061,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.130}"
                 }
               },
               "highest": {
@@ -5519,6 +7079,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green.palette.txt.170}"
                 }
               }
             },
@@ -5535,6 +7099,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.20}"
                 }
               },
               "low": {
@@ -5549,6 +7117,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.60}"
                 }
               },
               "default": {
@@ -5563,6 +7135,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -5577,6 +7153,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.130}"
                 }
               },
               "highest": {
@@ -5591,6 +7171,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.promo_green_dark.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.promo_green_dark.palette.txt.170}"
                 }
               }
             },
@@ -5607,6 +7191,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.20}"
                 }
               },
               "low": {
@@ -5621,6 +7209,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.60}"
                 }
               },
               "default": {
@@ -5635,6 +7227,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.100}"
                 }
               },
               "high": {
@@ -5649,6 +7245,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.130}"
                 }
               },
               "highest": {
@@ -5663,6 +7263,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink.palette.txt.170}"
                 }
               }
             },
@@ -5679,6 +7283,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.20}"
                 }
               },
               "low": {
@@ -5693,6 +7301,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.60}"
                 }
               },
               "default": {
@@ -5707,6 +7319,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -5721,6 +7337,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.130}"
                 }
               },
               "highest": {
@@ -5735,6 +7355,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.cashback_pink_dark.palette.txt.170}"
                 }
               }
             },
@@ -5751,6 +7375,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.20}"
                 }
               },
               "low": {
@@ -5765,6 +7393,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.60}"
                 }
               },
               "default": {
@@ -5779,6 +7411,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.100}"
                 }
               },
               "high": {
@@ -5793,6 +7429,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.130}"
                 }
               },
               "highest": {
@@ -5807,6 +7447,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple.palette.txt.170}"
                 }
               }
             },
@@ -5823,6 +7467,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.30}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.20}"
                 }
               },
               "low": {
@@ -5837,6 +7485,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.70}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.60}"
                 }
               },
               "default": {
@@ -5851,6 +7503,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.110}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.100}"
                 }
               },
               "high": {
@@ -5865,6 +7521,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.140}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.130}"
                 }
               },
               "highest": {
@@ -5879,6 +7539,10 @@
                 "border": {
                   "$type": "color",
                   "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.border.180}"
+                },
+                "txt": {
+                  "$type": "color",
+                  "$value": "{_color_palette.mode.dark.premium_purple_dark.palette.txt.170}"
                 }
               }
             }
